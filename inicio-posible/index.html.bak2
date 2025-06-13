@@ -8,52 +8,48 @@
 	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- This site is optimized with the Yoast SEO plugin v25.3 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>INICIO - Centro Quiropráctico Quirosapio</title>
-	<link rel="canonical" href="/">
+	<title>INICIO POSIBLE - Centro Quiropráctico Quirosapio</title>
+	<link rel="canonical" href="/inicio-posible/">
 	<meta property="og:locale" content="es_ES">
-	<meta property="og:type" content="website">
-	<meta property="og:title" content="INICIO - Centro Quiropráctico Quirosapio">
-	<meta property="og:description" content="Centro Quiropráctico Quirosapio Quiropráctica y Kinesiología Aplicada QuiroSapio: Tu Quiropráctico en Madrid Cuidamos de tu columna vertebral y sistema nervioso Bienvenido al Centro Quiropráctico QuiroSapio, dedicado a ofrecer un cuidado profesional, actualizado y personalizado a toda persona que quiera cuidar de su cuerpo, recuperando un nivel óptimo de bienestar. PROFESIONALIDAD La profesional quiropráctica del centro [&hellip;]">
-	<meta property="og:url" content="/">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="INICIO POSIBLE - Centro Quiropráctico Quirosapio">
+	<meta property="og:description" content="QuiroSapio: Tu Quiropráctico en Madrid Cuidamos de tu columna vertebral y sistema nervioso Bienvenido al Centro Quiropráctico Quirosapio, dedicado a ofrecer un cuidado profesional, actualizado y personalizado a toda persona que quiera cuidar de su cuerpo, recuperando un nivel óptimo de bienestar. PROFESIONALIDAD La Quiropráctica del centro es titulada universitaria, miembro de la Asociación Española [&hellip;]">
+	<meta property="og:url" content="/inicio-posible/">
 	<meta property="og:site_name" content="Centro Quiropráctico Quirosapio">
-	<meta property="article:modified_time" content="2025-06-09T15:21:09+00:00">
-	<meta property="og:image" content="/wp-content/uploads/2020/01/icak.jpg">
-	<meta property="og:image:width" content="530">
-	<meta property="og:image:height" content="324">
-	<meta property="og:image:type" content="image/jpeg">
+	<meta property="article:modified_time" content="2020-03-26T18:15:54+00:00">
+	<meta property="og:image" content="localhost/Quirosapio/wp-content/uploads/2020/01/icak.jpg">
 	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:label1" content="Tiempo de lectura">
+	<meta name="twitter:data1" content="8 minutos">
 	<script type="application/ld+json" class="yoast-schema-graph">{
 	    "@context": "https://schema.org",
 	    "@graph": [
 	        {
 	            "@type": "WebPage",
-	            "@id": "/",
-	            "url": "/",
-	            "name": "INICIO - Centro Quiropráctico Quirosapio",
+	            "@id": "/inicio-posible/",
+	            "url": "/inicio-posible/",
+	            "name": "INICIO POSIBLE - Centro Quiropráctico Quirosapio",
 	            "isPartOf": {
 	                "@id": "/#website"
 	            },
-	            "about": {
-	                "@id": "/#organization"
-	            },
 	            "primaryImageOfPage": {
-	                "@id": "/#primaryimage"
+	                "@id": "/inicio-posible/#primaryimage"
 	            },
 	            "image": {
-	                "@id": "/#primaryimage"
+	                "@id": "/inicio-posible/#primaryimage"
 	            },
 	            "thumbnailUrl": "/wp-content/uploads/2020/01/icak.jpg",
-	            "datePublished": "2020-01-17T12:40:05+00:00",
-	            "dateModified": "2025-06-09T15:21:09+00:00",
+	            "datePublished": "2020-03-06T11:25:14+00:00",
+	            "dateModified": "2020-03-26T18:15:54+00:00",
 	            "breadcrumb": {
-	                "@id": "/#breadcrumb"
+	                "@id": "/inicio-posible/#breadcrumb"
 	            },
 	            "inLanguage": "es",
 	            "potentialAction": [
 	                {
 	                    "@type": "ReadAction",
 	                    "target": [
-	                        "/"
+	                        "/inicio-posible/"
 	                    ]
 	                }
 	            ]
@@ -61,21 +57,24 @@
 	        {
 	            "@type": "ImageObject",
 	            "inLanguage": "es",
-	            "@id": "/#primaryimage",
+	            "@id": "/inicio-posible/#primaryimage",
 	            "url": "/wp-content/uploads/2020/01/icak.jpg",
-	            "contentUrl": "/wp-content/uploads/2020/01/icak.jpg",
-	            "width": 530,
-	            "height": 324,
-	            "caption": "Elementos de kinesiología aplicada"
+	            "contentUrl": "/wp-content/uploads/2020/01/icak.jpg"
 	        },
 	        {
 	            "@type": "BreadcrumbList",
-	            "@id": "/#breadcrumb",
+	            "@id": "/inicio-posible/#breadcrumb",
 	            "itemListElement": [
 	                {
 	                    "@type": "ListItem",
 	                    "position": 1,
-	                    "name": "Portada"
+	                    "name": "Portada",
+	                    "item": "/"
+	                },
+	                {
+	                    "@type": "ListItem",
+	                    "position": 2,
+	                    "name": "INICIO POSIBLE"
 	                }
 	            ]
 	        },
@@ -136,10 +135,10 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 /*! This file is auto-generated */
 !function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"🏳️‍⚧️","🏳️​⚧️")?!1:!n(e,"🇺🇳","🇺​🇳")&&!n(e,"🏴󠁧󠁢󠁥󠁮󠁧󠁿","🏴​󠁧​󠁢​󠁥​󠁮​󠁧​󠁿");case"emoji":return!n(e,"🐦‍🔥","🐦​🔥")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
 </script>
-<link rel="stylesheet" id="argpd-informbox-css" href="wp-content/plugins/adapta-rgpd/assets/css/inform-box-border.css?ver=1.3.9" media="all">
-<link rel="stylesheet" id="argpd-cookies-eu-banner-css" href="wp-content/plugins/adapta-rgpd/assets/css/cookies-banner-modern-light.css?ver=1.3.9" media="all">
-<link rel="stylesheet" id="wp-customer-reviews-3-frontend-css" href="wp-content/plugins/wp-customer-reviews/css/wp-customer-reviews.css?ver=3.7.3" media="all">
-<link rel="stylesheet" id="hfe-widgets-style-css" href="wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=2.4.0" media="all">
+<link rel="stylesheet" id="argpd-informbox-css" href="../wp-content/plugins/adapta-rgpd/assets/css/inform-box-border.css?ver=1.3.9" media="all">
+<link rel="stylesheet" id="argpd-cookies-eu-banner-css" href="../wp-content/plugins/adapta-rgpd/assets/css/cookies-banner-modern-light.css?ver=1.3.9" media="all">
+<link rel="stylesheet" id="wp-customer-reviews-3-frontend-css" href="../wp-content/plugins/wp-customer-reviews/css/wp-customer-reviews.css?ver=3.7.3" media="all">
+<link rel="stylesheet" id="hfe-widgets-style-css" href="../wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=2.4.0" media="all">
 <style id="wp-emoji-styles-inline-css">img.wp-smiley, img.emoji {
 		display: inline !important;
 		border: none !important;
@@ -157,25 +156,27 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 :where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
 :where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
 :root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}</style>
-<link rel="stylesheet" id="dashicons-css" href="wp-includes/css/dashicons.min.css?ver=6.8.1" media="all">
-<link rel="stylesheet" id="hfe-style-css" href="wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=2.4.0" media="all">
-<link rel="stylesheet" id="elementor-icons-css" href="wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.40.0" media="all">
-<link rel="stylesheet" id="elementor-frontend-css" href="wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.29.2" media="all">
-<link rel="stylesheet" id="elementor-post-750-css" href="wp-content/uploads/elementor/css/post-750.css?ver=1749316966" media="all">
-<link rel="stylesheet" id="widget-spacer-css" href="wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=3.29.2" media="all">
-<link rel="stylesheet" id="widget-heading-css" href="wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.29.2" media="all">
-<link rel="stylesheet" id="e-animation-slideInRight-css" href="wp-content/plugins/elementor/assets/lib/animations/styles/slideInRight.min.css?ver=3.29.2" media="all">
-<link rel="stylesheet" id="widget-icon-box-css" href="wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=3.29.2" media="all">
-<link rel="stylesheet" id="e-animation-fadeInUp-css" href="wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=3.29.2" media="all">
-<link rel="stylesheet" id="widget-image-css" href="wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.29.2" media="all">
-<link rel="stylesheet" id="widget-google_maps-css" href="wp-content/plugins/elementor/assets/css/widget-google_maps.min.css?ver=3.29.2" media="all">
-<link rel="stylesheet" id="elementor-post-473-css" href="wp-content/uploads/elementor/css/post-473.css?ver=1749482476" media="all">
-<link rel="stylesheet" id="elementor-post-729-css" href="wp-content/uploads/elementor/css/post-729.css?ver=1749316967" media="all">
-<link rel="stylesheet" id="elementor-post-687-css" href="wp-content/uploads/elementor/css/post-687.css?ver=1749316967" media="all">
-<link rel="stylesheet" id="elementor-post-639-css" href="wp-content/uploads/elementor/css/post-639.css?ver=1749659301" media="all">
-<link rel="stylesheet" id="font-awesome-css" href="wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=6.7.2" media="all">
-<link rel="stylesheet" id="simple-line-icons-css" href="wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0" media="all">
-<link rel="stylesheet" id="oceanwp-style-css" href="wp-content/themes/oceanwp/assets/css/style.min.css?ver=4.0.9" media="all">
+<link rel="stylesheet" id="dashicons-css" href="../wp-includes/css/dashicons.min.css?ver=6.8.1" media="all">
+<link rel="stylesheet" id="hfe-style-css" href="../wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=2.4.0" media="all">
+<link rel="stylesheet" id="elementor-icons-css" href="../wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.40.0" media="all">
+<link rel="stylesheet" id="elementor-frontend-css" href="../wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.29.2" media="all">
+<link rel="stylesheet" id="elementor-post-750-css" href="../wp-content/uploads/elementor/css/post-750.css?ver=1749316966" media="all">
+<link rel="stylesheet" id="widget-heading-css" href="../wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.29.2" media="all">
+<link rel="stylesheet" id="e-animation-slideInRight-css" href="../wp-content/plugins/elementor/assets/lib/animations/styles/slideInRight.min.css?ver=3.29.2" media="all">
+<link rel="stylesheet" id="widget-spacer-css" href="../wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=3.29.2" media="all">
+<link rel="stylesheet" id="widget-icon-box-css" href="../wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=3.29.2" media="all">
+<link rel="stylesheet" id="e-animation-fadeInUp-css" href="../wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=3.29.2" media="all">
+<link rel="stylesheet" id="e-animation-grow-css" href="../wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=3.29.2" media="all">
+<link rel="stylesheet" id="widget-image-box-css" href="../wp-content/plugins/elementor/assets/css/widget-image-box.min.css?ver=3.29.2" media="all">
+<link rel="stylesheet" id="widget-image-css" href="../wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.29.2" media="all">
+<link rel="stylesheet" id="widget-google_maps-css" href="../wp-content/plugins/elementor/assets/css/widget-google_maps.min.css?ver=3.29.2" media="all">
+<link rel="stylesheet" id="elementor-post-612-css" href="../wp-content/uploads/elementor/css/post-612.css?ver=1749484464" media="all">
+<link rel="stylesheet" id="elementor-post-729-css" href="../wp-content/uploads/elementor/css/post-729.css?ver=1749316967" media="all">
+<link rel="stylesheet" id="elementor-post-687-css" href="../wp-content/uploads/elementor/css/post-687.css?ver=1749316967" media="all">
+<link rel="stylesheet" id="elementor-post-639-css" href="../wp-content/uploads/elementor/css/post-639.css?ver=1749659301" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="../wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=6.7.2" media="all">
+<link rel="stylesheet" id="simple-line-icons-css" href="../wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0" media="all">
+<link rel="stylesheet" id="oceanwp-style-css" href="../wp-content/themes/oceanwp/assets/css/style.min.css?ver=4.0.9" media="all">
 <style id="oceanwp-style-inline-css">div.wpforms-container-full .wpforms-form input[type=submit]:hover,
 			div.wpforms-container-full .wpforms-form input[type=submit]:focus,
 			div.wpforms-container-full .wpforms-form input[type=submit]:active,
@@ -189,45 +190,45 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 			}</style>
 <link rel="stylesheet" id="oceanwp-google-font-redressed-css" href="//fonts.googleapis.com/css?family=Redressed%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i&#038;subset=latin&#038;display=swap&#038;ver=6.8.1" media="all">
 <link rel="stylesheet" id="oceanwp-google-font-quattrocento-css" href="//fonts.googleapis.com/css?family=Quattrocento%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i&#038;subset=latin&#038;display=swap&#038;ver=6.8.1" media="all">
-<link rel="stylesheet" id="hfe-elementor-icons-css" href="wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.34.0" media="all">
-<link rel="stylesheet" id="hfe-icons-list-css" href="wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.24.3" media="all">
-<link rel="stylesheet" id="hfe-social-icons-css" href="wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.24.0" media="all">
-<link rel="stylesheet" id="hfe-social-share-icons-brands-css" href="wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css?ver=5.15.3" media="all">
-<link rel="stylesheet" id="hfe-social-share-icons-fontawesome-css" href="wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css?ver=5.15.3" media="all">
-<link rel="stylesheet" id="hfe-nav-menu-icons-css" href="wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css?ver=5.15.3" media="all">
-<link rel="stylesheet" id="rich-reviews-css" href="wp-content/plugins/rich-reviews/css/rich-reviews.css?ver=6.8.1" media="all">
-<link rel="stylesheet" id="oe-widgets-style-css" href="wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=6.8.1" media="all">
-<link rel="stylesheet" id="elementor-gf-local-roboto-css" href="wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1749316982" media="all">
-<link rel="stylesheet" id="elementor-gf-local-robotoslab-css" href="wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1749316988" media="all">
-<link rel="stylesheet" id="elementor-gf-local-belleza-css" href="wp-content/uploads/elementor/google-fonts/css/belleza.css?ver=1749316988" media="all">
-<link rel="stylesheet" id="elementor-gf-local-courgette-css" href="wp-content/uploads/elementor/google-fonts/css/courgette.css?ver=1749316988" media="all">
-<link rel="stylesheet" id="elementor-gf-local-poppins-css" href="wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1749316993" media="all">
-<link rel="stylesheet" id="elementor-gf-local-modernantiqua-css" href="wp-content/uploads/elementor/google-fonts/css/modernantiqua.css?ver=1749316993" media="all">
-<link rel="stylesheet" id="elementor-gf-local-molengo-css" href="wp-content/uploads/elementor/google-fonts/css/molengo.css?ver=1749316994" media="all">
-<link rel="stylesheet" id="elementor-gf-local-playfairdisplay-css" href="wp-content/uploads/elementor/google-fonts/css/playfairdisplay.css?ver=1749316998" media="all">
-<link rel="stylesheet" id="elementor-gf-local-quattrocento-css" href="wp-content/uploads/elementor/google-fonts/css/quattrocento.css?ver=1749316999" media="all">
-<link rel="stylesheet" id="elementor-icons-shared-0-css" href="wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3" media="all">
-<link rel="stylesheet" id="elementor-icons-fa-solid-css" href="wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3" media="all">
-<link rel="stylesheet" id="elementor-icons-fa-regular-css" href="wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3" media="all">
-<script src="wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
-<script src="wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="stylesheet" id="hfe-elementor-icons-css" href="../wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.34.0" media="all">
+<link rel="stylesheet" id="hfe-icons-list-css" href="../wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.24.3" media="all">
+<link rel="stylesheet" id="hfe-social-icons-css" href="../wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.24.0" media="all">
+<link rel="stylesheet" id="hfe-social-share-icons-brands-css" href="../wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css?ver=5.15.3" media="all">
+<link rel="stylesheet" id="hfe-social-share-icons-fontawesome-css" href="../wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css?ver=5.15.3" media="all">
+<link rel="stylesheet" id="hfe-nav-menu-icons-css" href="../wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css?ver=5.15.3" media="all">
+<link rel="stylesheet" id="rich-reviews-css" href="../wp-content/plugins/rich-reviews/css/rich-reviews.css?ver=6.8.1" media="all">
+<link rel="stylesheet" id="oe-widgets-style-css" href="../wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=6.8.1" media="all">
+<link rel="stylesheet" id="elementor-gf-local-roboto-css" href="../wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1749316982" media="all">
+<link rel="stylesheet" id="elementor-gf-local-robotoslab-css" href="../wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1749316988" media="all">
+<link rel="stylesheet" id="elementor-gf-local-belleza-css" href="../wp-content/uploads/elementor/google-fonts/css/belleza.css?ver=1749316988" media="all">
+<link rel="stylesheet" id="elementor-gf-local-courgette-css" href="../wp-content/uploads/elementor/google-fonts/css/courgette.css?ver=1749316988" media="all">
+<link rel="stylesheet" id="elementor-gf-local-poppins-css" href="../wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1749316993" media="all">
+<link rel="stylesheet" id="elementor-gf-local-modernantiqua-css" href="../wp-content/uploads/elementor/google-fonts/css/modernantiqua.css?ver=1749316993" media="all">
+<link rel="stylesheet" id="elementor-gf-local-molengo-css" href="../wp-content/uploads/elementor/google-fonts/css/molengo.css?ver=1749316994" media="all">
+<link rel="stylesheet" id="elementor-gf-local-playfairdisplay-css" href="../wp-content/uploads/elementor/google-fonts/css/playfairdisplay.css?ver=1749316998" media="all">
+<link rel="stylesheet" id="elementor-gf-local-quattrocento-css" href="../wp-content/uploads/elementor/google-fonts/css/quattrocento.css?ver=1749316999" media="all">
+<link rel="stylesheet" id="elementor-icons-shared-0-css" href="../wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3" media="all">
+<link rel="stylesheet" id="elementor-icons-fa-solid-css" href="../wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3" media="all">
+<link rel="stylesheet" id="elementor-icons-fa-regular-css" href="../wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3" media="all">
+<script src="/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <script id="jquery-js-after">
 !function($){"use strict";$(document).ready(function(){$(this).scrollTop()>100&&$(".hfe-scroll-to-top-wrap").removeClass("hfe-scroll-to-top-hide"),$(window).scroll(function(){$(this).scrollTop()<100?$(".hfe-scroll-to-top-wrap").fadeOut(300):$(".hfe-scroll-to-top-wrap").fadeIn(300)}),$(".hfe-scroll-to-top-wrap").on("click",function(){$("html, body").animate({scrollTop:0},300);return!1})})}(jQuery);
 !function($){'use strict';$(document).ready(function(){var bar=$('.hfe-reading-progress-bar');if(!bar.length)return;$(window).on('scroll',function(){var s=$(window).scrollTop(),d=$(document).height()-$(window).height(),p=d? s/d*100:0;bar.css('width',p+'%')});});}(jQuery);
 </script>
-<script src="wp-content/plugins/adapta-rgpd/assets/js/cookies-eu-banner.js?ver=1.3.9" id="argpd-cookies-eu-banner-js"></script>
-<script src="wp-content/plugins/wp-customer-reviews/js/wp-customer-reviews.js?ver=3.7.3" id="wp-customer-reviews-3-frontend-js"></script>
-<script src="wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/js/jq-sticky-anything.min.js?ver=2.1.1" id="stickyAnythingLib-js"></script>
+<script src="/wp-content/plugins/adapta-rgpd/assets/js/cookies-eu-banner.js?ver=1.3.9" id="argpd-cookies-eu-banner-js"></script>
+<script src="/wp-content/plugins/wp-customer-reviews/js/wp-customer-reviews.js?ver=3.7.3" id="wp-customer-reviews-3-frontend-js"></script>
+<script src="/wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/js/jq-sticky-anything.min.js?ver=2.1.1" id="stickyAnythingLib-js"></script>
 <script id="rich-reviews-js-extra">var php_vars = {"excerpt_length":"150","maybe_some_other_stuff":"Probably Not"};
 var translation = {"read_more":"Read More","less":"Less"};</script>
-<script src="wp-content/plugins/rich-reviews/js/rich-reviews.js?ver=6.8.1" id="rich-reviews-js"></script>
-<link rel="https://api.w.org/" href="wp-json/">
-<link rel="alternate" title="JSON" type="application/json" href="wp-json/wp/v2/pages/473">
+<script src="/wp-content/plugins/rich-reviews/js/rich-reviews.js?ver=6.8.1" id="rich-reviews-js"></script>
+<link rel="https://api.w.org/" href="../wp-json/">
+<link rel="alternate" title="JSON" type="application/json" href="../wp-json/wp/v2/pages/612">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
 <meta name="generator" content="WordPress 6.8.1">
-<link rel="shortlink" href="/">
-<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="wp-json/oembed/1.0/embed?url=%2F">
-<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="wp-json/oembed/1.0/embed?url=%2F#038;format=xml">
+<link rel="shortlink" href="/?p=612">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="../wp-json/oembed/1.0/embed?url=%2Finicio-posible%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed?url=%2Finicio-posible%2F#038;format=xml">
 <meta name="generator" content="Elementor 3.29.2; features: additional_custom_breakpoints, e_local_google_fonts; settings: css_print_method-external, google_font-enabled, font_display-auto">
 <style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>			<style>.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
 				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
@@ -245,15 +246,15 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 						background-image: none !important;
 					}
 				}</style>
-			<link rel="icon" href="wp-content/uploads/2020/04/cropped-LOGO_Favicon_VIOLET_V1.1-32x32.png" sizes="32x32">
-<link rel="icon" href="wp-content/uploads/2020/04/cropped-LOGO_Favicon_VIOLET_V1.1-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon" href="wp-content/uploads/2020/04/cropped-LOGO_Favicon_VIOLET_V1.1-180x180.png">
+			<link rel="icon" href="../wp-content/uploads/2020/04/cropped-LOGO_Favicon_VIOLET_V1.1-32x32.png" sizes="32x32">
+<link rel="icon" href="../wp-content/uploads/2020/04/cropped-LOGO_Favicon_VIOLET_V1.1-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="../wp-content/uploads/2020/04/cropped-LOGO_Favicon_VIOLET_V1.1-180x180.png">
 <meta name="msapplication-TileImage" content="/wp-content/uploads/2020/04/cropped-LOGO_Favicon_VIOLET_V1.1-270x270.png">
 <!-- OceanWP CSS -->
 <style type="text/css">/* Colors */body .theme-button,body input[type="submit"],body button[type="submit"],body button,body .button,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button,.woocommerce-cart .wp-element-button,.woocommerce-checkout .wp-element-button,.wp-block-button__link{border-color:#ffffff}body .theme-button:hover,body input[type="submit"]:hover,body button[type="submit"]:hover,body button:hover,body .button:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:active,body div.wpforms-container-full .wpforms-form button[type=submit]:hover,body div.wpforms-container-full .wpforms-form button[type=submit]:active,body div.wpforms-container-full .wpforms-form .wpforms-page-button:hover,body div.wpforms-container-full .wpforms-form .wpforms-page-button:active,.woocommerce-cart .wp-element-button:hover,.woocommerce-checkout .wp-element-button:hover,.wp-block-button__link:hover{border-color:#ffffff}/* OceanWP Style Settings CSS */.theme-button,input[type="submit"],button[type="submit"],button,.button,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button{border-style:solid}.theme-button,input[type="submit"],button[type="submit"],button,.button,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button{border-width:1px}form input[type="text"],form input[type="password"],form input[type="email"],form input[type="url"],form input[type="date"],form input[type="month"],form input[type="time"],form input[type="datetime"],form input[type="datetime-local"],form input[type="week"],form input[type="number"],form input[type="search"],form input[type="tel"],form input[type="color"],form select,form textarea,.woocommerce .woocommerce-checkout .select2-container--default .select2-selection--single{border-style:solid}body div.wpforms-container-full .wpforms-form input[type=date],body div.wpforms-container-full .wpforms-form input[type=datetime],body div.wpforms-container-full .wpforms-form input[type=datetime-local],body div.wpforms-container-full .wpforms-form input[type=email],body div.wpforms-container-full .wpforms-form input[type=month],body div.wpforms-container-full .wpforms-form input[type=number],body div.wpforms-container-full .wpforms-form input[type=password],body div.wpforms-container-full .wpforms-form input[type=range],body div.wpforms-container-full .wpforms-form input[type=search],body div.wpforms-container-full .wpforms-form input[type=tel],body div.wpforms-container-full .wpforms-form input[type=text],body div.wpforms-container-full .wpforms-form input[type=time],body div.wpforms-container-full .wpforms-form input[type=url],body div.wpforms-container-full .wpforms-form input[type=week],body div.wpforms-container-full .wpforms-form select,body div.wpforms-container-full .wpforms-form textarea{border-style:solid}form input[type="text"],form input[type="password"],form input[type="email"],form input[type="url"],form input[type="date"],form input[type="month"],form input[type="time"],form input[type="datetime"],form input[type="datetime-local"],form input[type="week"],form input[type="number"],form input[type="search"],form input[type="tel"],form input[type="color"],form select,form textarea{border-radius:3px}body div.wpforms-container-full .wpforms-form input[type=date],body div.wpforms-container-full .wpforms-form input[type=datetime],body div.wpforms-container-full .wpforms-form input[type=datetime-local],body div.wpforms-container-full .wpforms-form input[type=email],body div.wpforms-container-full .wpforms-form input[type=month],body div.wpforms-container-full .wpforms-form input[type=number],body div.wpforms-container-full .wpforms-form input[type=password],body div.wpforms-container-full .wpforms-form input[type=range],body div.wpforms-container-full .wpforms-form input[type=search],body div.wpforms-container-full .wpforms-form input[type=tel],body div.wpforms-container-full .wpforms-form input[type=text],body div.wpforms-container-full .wpforms-form input[type=time],body div.wpforms-container-full .wpforms-form input[type=url],body div.wpforms-container-full .wpforms-form input[type=week],body div.wpforms-container-full .wpforms-form select,body div.wpforms-container-full .wpforms-form textarea{border-radius:3px}/* Header */#site-header.has-header-media .overlay-header-media{background-color:rgba(0,0,0,0.5)}#site-logo a.site-logo-text:hover{color:#51075e}#site-navigation-wrap .dropdown-menu >li >a:hover,.oceanwp-mobile-menu-icon a:hover,#searchform-header-replace-close:hover{color:#760b89}#site-navigation-wrap .dropdown-menu >li >a:hover .owp-icon use,.oceanwp-mobile-menu-icon a:hover .owp-icon use,#searchform-header-replace-close:hover .owp-icon use{stroke:#760b89}#site-navigation-wrap .dropdown-menu >.current-menu-item >a,#site-navigation-wrap .dropdown-menu >.current-menu-ancestor >a,#site-navigation-wrap .dropdown-menu >.current-menu-item >a:hover,#site-navigation-wrap .dropdown-menu >.current-menu-ancestor >a:hover{background-color:rgba(0,0,0,0.1)}/* Topbar */#top-bar{padding:8px 0 0 0}#top-bar-wrap,.oceanwp-top-bar-sticky{background-color:#ddd5e2}#top-bar-wrap{border-color:rgba(0,0,0,0.36)}#top-bar-wrap,#top-bar-content strong{color:#000000}#top-bar-content a,#top-bar-social-alt a{color:#ffffff}#top-bar-content a:hover,#top-bar-social-alt a:hover{color:#ffffff}/* Blog CSS */.ocean-single-post-header ul.meta-item li a:hover{color:#333333}/* Typography */body{font-family:Georgia,serif;font-size:14px;line-height:1.8}h1,h2,h3,h4,h5,h6,.theme-heading,.widget-title,.oceanwp-widget-recent-posts-title,.comment-reply-title,.entry-title,.sidebar-box .widget-title{line-height:1.4}h1{font-family:Bookman Old Style,serif;font-size:23px;line-height:1.8}h2{font-size:20px;line-height:1.4}h3{font-size:18px;line-height:1.4}h4{font-size:17px;line-height:1.4}h5{font-size:14px;line-height:1.4}h6{font-size:15px;line-height:1.4}.page-header .page-header-title,.page-header.background-image-page-header .page-header-title{font-family:Bookman Old Style,serif;font-size:32px;line-height:1.4}.page-header .page-subheading{font-size:15px;line-height:1.8}.site-breadcrumbs,.site-breadcrumbs a{font-size:13px;line-height:1.4}#top-bar-content,#top-bar-social-alt{font-size:12px;line-height:1.8}#site-logo a.site-logo-text{font-family:Redressed;font-size:46px;line-height:1.3;letter-spacing:2.9px;font-weight:900;text-transform:uppercase}#site-navigation-wrap .dropdown-menu >li >a,#site-header.full_screen-header .fs-dropdown-menu >li >a,#site-header.top-header #site-navigation-wrap .dropdown-menu >li >a,#site-header.center-header #site-navigation-wrap .dropdown-menu >li >a,#site-header.medium-header #site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a{font-family:Quattrocento;font-size:14px}.dropdown-menu ul li a.menu-link,#site-header.full_screen-header .fs-dropdown-menu ul.sub-menu li a{font-size:14px;line-height:2;letter-spacing:1.1px}.sidr-class-dropdown-menu li a,a.sidr-class-toggle-sidr-close,#mobile-dropdown ul li a,body #mobile-fullscreen ul li a{font-size:15px;line-height:1.8}.blog-entry.post .blog-entry-header .entry-title a{font-family:Bookman Old Style,serif;font-size:24px;line-height:1.4}.ocean-single-post-header .single-post-title{font-size:34px;line-height:1.4;letter-spacing:.6px}.ocean-single-post-header ul.meta-item li,.ocean-single-post-header ul.meta-item li a{font-size:13px;line-height:1.4;letter-spacing:.6px}.ocean-single-post-header .post-author-name,.ocean-single-post-header .post-author-name a{font-size:14px;line-height:1.4;letter-spacing:.6px}.ocean-single-post-header .post-author-description{font-size:12px;line-height:1.4;letter-spacing:.6px}.single-post .entry-title{line-height:1.4;letter-spacing:.6px}.single-post ul.meta li,.single-post ul.meta li a{font-size:14px;line-height:1.4;letter-spacing:.6px}.sidebar-box .widget-title,.sidebar-box.widget_block .wp-block-heading{font-size:13px;line-height:1;letter-spacing:1px}#footer-widgets .footer-box .widget-title{font-size:13px;line-height:1;letter-spacing:1px}#footer-bottom #copyright{font-size:12px;line-height:1}#footer-bottom #footer-bottom-menu{font-size:12px;line-height:1}.woocommerce-store-notice.demo_store{line-height:2;letter-spacing:1.5px}.demo_store .woocommerce-store-notice__dismiss-link{line-height:2;letter-spacing:1.5px}.woocommerce ul.products li.product li.title h2,.woocommerce ul.products li.product li.title a{font-size:14px;line-height:1.5}.woocommerce ul.products li.product li.category,.woocommerce ul.products li.product li.category a{font-size:12px;line-height:1}.woocommerce ul.products li.product .price{font-size:18px;line-height:1}.woocommerce ul.products li.product .button,.woocommerce ul.products li.product .product-inner .added_to_cart{font-size:12px;line-height:1.5;letter-spacing:1px}.woocommerce ul.products li.owp-woo-cond-notice span,.woocommerce ul.products li.owp-woo-cond-notice a{font-size:16px;line-height:1;letter-spacing:1px;font-weight:600;text-transform:capitalize}.woocommerce div.product .product_title{font-size:24px;line-height:1.4;letter-spacing:.6px}.woocommerce div.product p.price{font-size:36px;line-height:1}.woocommerce .owp-btn-normal .summary form button.button,.woocommerce .owp-btn-big .summary form button.button,.woocommerce .owp-btn-very-big .summary form button.button{font-size:12px;line-height:1.5;letter-spacing:1px;text-transform:uppercase}.woocommerce div.owp-woo-single-cond-notice span,.woocommerce div.owp-woo-single-cond-notice a{font-size:18px;line-height:2;letter-spacing:1.5px;font-weight:600;text-transform:capitalize}.ocean-preloader--active .preloader-after-content{font-size:20px;line-height:1.8;letter-spacing:.6px}</style>
 </head>
 
-<body class="home wp-singular page-template-default page page-id-473 wp-embed-responsive wp-theme-oceanwp ehf-header ehf-template-oceanwp ehf-stylesheet-oceanwp oceanwp-theme dropdown-mobile top-header-style default-breakpoint content-full-screen page-header-disabled has-breadcrumbs elementor-default elementor-kit-750 elementor-page elementor-page-473" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+<body class="wp-singular page-template-default page page-id-612 wp-embed-responsive wp-theme-oceanwp ehf-header ehf-template-oceanwp ehf-stylesheet-oceanwp oceanwp-theme dropdown-mobile top-header-style default-breakpoint content-full-screen page-header-disabled has-breadcrumbs elementor-default elementor-kit-750 elementor-page elementor-page-612" itemscope="itemscope" itemtype="https://schema.org/WebPage">
 
 	
 	
@@ -276,7 +277,7 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 						<div class="elementor-element elementor-element-f6caf63 elementor-widget elementor-widget-image" data-id="f6caf63" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 																<a href="localhost/Quirosapio/">
-							<img width="1966" height="1531" src="wp-content/uploads/2020/03/Quirosapio-sin-fondo.png" class="attachment-full size-full wp-image-1250" alt="">								</a>
+							<img width="1966" height="1531" src="/wp-content/uploads/2020/03/Quirosapio-sin-fondo.png" class="attachment-full size-full wp-image-1250" alt="">								</a>
 															</div>
 				</div>
 					</div>
@@ -293,7 +294,7 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 				</div>
 				<nav class="hfe-nav-menu__layout-horizontal hfe-nav-menu__submenu-arrow" data-toggle-icon="&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;fas fa-align-justify&quot;&gt;&lt;/i&gt;" data-close-icon="&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;far fa-window-close&quot;&gt;&lt;/i&gt;" data-full-width="yes">
 					<ul id="menu-1-a78a309" class="hfe-nav-menu">
-<li id="menu-item-508" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-473 current_page_item parent hfe-creative-menu"><a href="/" class="hfe-menu-item">INICIO</a></li>
+<li id="menu-item-508" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home parent hfe-creative-menu"><a href="/" class="hfe-menu-item">INICIO</a></li>
 <li id="menu-item-118" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="/quienes-somos/" class="hfe-menu-item">QUIENES SOMOS</a></li>
 <li id="menu-item-120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children parent hfe-has-submenu hfe-creative-menu">
 <div class="hfe-has-submenu-container"><a href="/que-es-la-quiropractica/" class="hfe-menu-item">QUIROPRÁCTICA<span class="hfe-menu-toggle sub-arrow hfe-menu-child-0"><i class="fa"></i></span></a></div>
@@ -358,63 +359,20 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 <div class="entry clr" itemprop="text">
 
 	
-			<div data-elementor-type="wp-page" data-elementor-id="473" class="elementor elementor-473">
-						<section class="elementor-section elementor-top-section elementor-element elementor-element-b578768 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b578768" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-24e7a9c" data-id="24e7a9c" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-d104b48 elementor-widget elementor-widget-spacer" data-id="d104b48" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-						</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-f25c65a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f25c65a" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2a829db" data-id="2a829db" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-870dc6b elementor-widget elementor-widget-heading" data-id="870dc6b" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-					<h1 class="elementor-heading-title elementor-size-default">Centro Quiropráctico Quirosapio</h1>				</div>
-				</div>
-				<div class="elementor-element elementor-element-d90e087 elementor-widget elementor-widget-heading" data-id="d90e087" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Quiropráctica y Kinesiología Aplicada</h2>				</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-88e48ff elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="88e48ff" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-cbd3d42" data-id="cbd3d42" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-6d89dc5 elementor-widget elementor-widget-spacer" data-id="6d89dc5" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-						</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-1c9832b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1c9832b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-							<div class="elementor-background-overlay"></div>
+			<div data-elementor-type="wp-page" data-elementor-id="612" class="elementor elementor-612">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-45af591 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="45af591" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;video&quot;,&quot;background_video_link&quot;:&quot;localhost\/Quirosapio\/wp-content\/uploads\/2020\/02\/video-2.mp4&quot;}">
+								<div class="elementor-background-video-container elementor-hidden-mobile">
+													<video class="elementor-background-video-hosted" autoplay muted playsinline loop></video>
+											</div>
+									<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fc96980 animated-slow elementor-invisible" data-id="fc96980" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;slideInRight&quot;,&quot;animation_delay&quot;:0}">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-42634d3 animated-slow elementor-invisible" data-id="42634d3" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;slideInRight&quot;,&quot;animation_delay&quot;:0}">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-4976715 elementor-widget elementor-widget-heading" data-id="4976715" data-element_type="widget" data-widget_type="heading.default">
+						<div class="elementor-element elementor-element-3803867 elementor-widget elementor-widget-heading" data-id="3803867" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 					<h2 class="elementor-heading-title elementor-size-large">QuiroSapio: Tu Quiropráctico en Madrid</h2>				</div>
 				</div>
-				<div class="elementor-element elementor-element-7934d59 elementor-widget elementor-widget-heading" data-id="7934d59" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-ab599ac elementor-widget elementor-widget-heading" data-id="ab599ac" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 					<h2 class="elementor-heading-title elementor-size-default">Cuidamos de tu columna vertebral y sistema nervioso</h2>				</div>
 				</div>
@@ -422,22 +380,22 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 		</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-45f99b0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="45f99b0" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3b90d30 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3b90d30" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d2a0a1e" data-id="d2a0a1e" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8466687" data-id="8466687" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-a36f4a6 elementor-widget elementor-widget-spacer" data-id="a36f4a6" data-element_type="widget" data-widget_type="spacer.default">
+						<div class="elementor-element elementor-element-ca7e6ee elementor-widget elementor-widget-spacer" data-id="ca7e6ee" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
 							<div class="elementor-spacer">
 			<div class="elementor-spacer-inner"></div>
 		</div>
 						</div>
 				</div>
-				<div class="elementor-element elementor-element-7d35ba1 elementor-widget elementor-widget-heading" data-id="7d35ba1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-ba6eb3e elementor-widget elementor-widget-heading" data-id="ba6eb3e" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Bienvenido al Centro Quiropráctico QuiroSapio, dedicado a ofrecer un cuidado profesional, actualizado y personalizado a toda persona que quiera cuidar de su cuerpo, recuperando un nivel óptimo de bienestar.</h2>				</div>
+					<h2 class="elementor-heading-title elementor-size-default">Bienvenido al Centro Quiropráctico Quirosapio, dedicado a ofrecer un cuidado profesional, actualizado y personalizado a toda persona que quiera cuidar de su cuerpo, recuperando un nivel óptimo de bienestar.</h2>				</div>
 				</div>
-				<div class="elementor-element elementor-element-8fd5eaa elementor-widget elementor-widget-spacer" data-id="8fd5eaa" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-element elementor-element-7f98221 elementor-widget elementor-widget-spacer" data-id="7f98221" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
 							<div class="elementor-spacer">
 			<div class="elementor-spacer-inner"></div>
@@ -448,11 +406,11 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 		</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-13395e3 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="13395e3" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-dbf8043 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="dbf8043" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
 						<div class="elementor-container elementor-column-gap-wider">
-					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-460078d" data-id="460078d" data-element_type="column">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-bc8d83b" data-id="bc8d83b" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-fead275 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="fead275" data-element_type="widget" data-widget_type="icon-box.default">
+						<div class="elementor-element elementor-element-ea98731 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="ea98731" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 							<div class="elementor-icon-box-wrapper">
 
@@ -469,7 +427,7 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 					</h3>
 				
 									<p class="elementor-icon-box-description">
-						La profesional quiropráctica del centro es titulada universitaria y miembro de la Asociación Española de Quiropráctica.					</p>
+						La Quiropráctica del centro es titulada universitaria, miembro de la Asociación Española de Quiropráctica.					</p>
 				
 			</div>
 			
@@ -478,9 +436,9 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-87058e7" data-id="87058e7" data-element_type="column">
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-dde6a71" data-id="dde6a71" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-9934f5c elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="9934f5c" data-element_type="widget" data-widget_type="icon-box.default">
+						<div class="elementor-element elementor-element-c41c41e elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="c41c41e" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 							<div class="elementor-icon-box-wrapper">
 
@@ -506,9 +464,9 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-d255e79" data-id="d255e79" data-element_type="column">
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-c21a5fb" data-id="c21a5fb" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-e1b2cf5 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="e1b2cf5" data-element_type="widget" data-widget_type="icon-box.default">
+						<div class="elementor-element elementor-element-e98d75d elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="e98d75d" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 							<div class="elementor-icon-box-wrapper">
 
@@ -525,7 +483,7 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 					</h3>
 				
 									<p class="elementor-icon-box-description">
-						La profesional quiropráctica del centro sigue realizando constantemente cursos de formación para profundizar y actualizar conocimientos.					</p>
+						La Quiropráctica del centro sigue realizando constantemente cursos de formación para profundizar y actualizar conocimientos.					</p>
 				
 			</div>
 			
@@ -536,11 +494,11 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 		</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-6ad248b elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="6ad248b" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d20e281 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="d20e281" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
 						<div class="elementor-container elementor-column-gap-wider">
-					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-583fc5e" data-id="583fc5e" data-element_type="column">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3420ed4" data-id="3420ed4" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-20ed6a2 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="20ed6a2" data-element_type="widget" data-widget_type="icon-box.default">
+						<div class="elementor-element elementor-element-65d98f0 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="65d98f0" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 							<div class="elementor-icon-box-wrapper">
 
@@ -557,7 +515,7 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 					</h3>
 				
 									<p class="elementor-icon-box-description">
-						Ofrecemos completa flexibilidad de horarios para adaptarnos a tus necesidades.					</p>
+						Ofrecemos completa flexibilidad de horarios y opciones de visitas a domicilio si necesario.					</p>
 				
 			</div>
 			
@@ -566,9 +524,9 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-8e5aebe" data-id="8e5aebe" data-element_type="column">
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-efb6ad7" data-id="efb6ad7" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-4d3561c elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="4d3561c" data-element_type="widget" data-widget_type="icon-box.default">
+						<div class="elementor-element elementor-element-4ddd318 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="4ddd318" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 							<div class="elementor-icon-box-wrapper">
 
@@ -585,7 +543,7 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 					</h3>
 				
 									<p class="elementor-icon-box-description">
-						Las sesiones tienen una duración de 20-30 minutos, dependiendo de las necesidades de cada persona.					</p>
+						Las sesiones tienen una duración de 30-40 minutos, dependiendo de las necesidades de cada persona.					</p>
 				
 			</div>
 			
@@ -594,9 +552,9 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-53f92b2" data-id="53f92b2" data-element_type="column">
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6cdc6f9" data-id="6cdc6f9" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-14ddf21 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="14ddf21" data-element_type="widget" data-widget_type="icon-box.default">
+						<div class="elementor-element elementor-element-f74bd5a elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="f74bd5a" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 							<div class="elementor-icon-box-wrapper">
 
@@ -613,7 +571,7 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 					</h3>
 				
 									<p class="elementor-icon-box-description">
-						No obstante la profesionalidad y la calidad del tratamiento, nuestros precios son asequibles.					</p>
+						No obstante la profesionalidad y la calidad del tratamiento, nuestros precios son muy asequibles.					</p>
 				
 			</div>
 			
@@ -624,11 +582,11 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 		</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-50650d4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="50650d4" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d03e56c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d03e56c" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-42f15fd" data-id="42f15fd" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9da5702" data-id="9da5702" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-398e045 elementor-widget elementor-widget-spacer" data-id="398e045" data-element_type="widget" data-widget_type="spacer.default">
+						<div class="elementor-element elementor-element-e158435 elementor-widget elementor-widget-spacer" data-id="e158435" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
 							<div class="elementor-spacer">
 			<div class="elementor-spacer-inner"></div>
@@ -639,289 +597,383 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 		</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-b555328 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b555328" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9a9e144 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9a9e144" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e151541" data-id="e151541" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1b48788" data-id="1b48788" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-d9edd3d elementor-widget elementor-widget-spacer" data-id="d9edd3d" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-6ca0e47 elementor-widget elementor-widget-heading" data-id="6ca0e47" data-element_type="widget" data-widget_type="heading.default">
+						<div class="elementor-element elementor-element-6cf5d7d elementor-widget elementor-widget-heading" data-id="6cf5d7d" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 					<h3 class="elementor-heading-title elementor-size-large">Las mayores premisas</h3>				</div>
 				</div>
-				<div class="elementor-element elementor-element-8b32d80 elementor-widget elementor-widget-text-editor" data-id="8b32d80" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-b795458 elementor-widget elementor-widget-text-editor" data-id="b795458" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 									<p>El cuerpo humano tiene la capacidad de <b>auto-sanarse y mantenerse en equilibrio</b>, lo que se llama «homeostasis».</p>
-<p>El <b>sistema nervioso</b> controla todo el cuerpo, transmitiendo señales entre cerebro y órganos, para que todo funcione perfectamente.</p>
-<p>De la<b> buena comunicación</b> entre cerebro y cuerpo depende nuestra salud.</p>
-<p>La <b>columna vertebral</b> protege el sistema nervioso y de su correcto alineamiento depende la buena comunicación entre cerebro y cuerpo.</p>
-<p>Si cuidas de tu columna vertebral, tu cerebro puede funcionar adecuadamente y tu cuerpo puede sanarse y funcionar a su <b>máximo potencial</b>.</p>								</div>
-				</div>
-				<div class="elementor-element elementor-element-c91a018 elementor-widget elementor-widget-spacer" data-id="c91a018" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-						</div>
+<p><span style="font-size: 16px; background-color: rgba(130, 62, 173, 0);">El </span><b style="font-size: 16px; background-color: rgba(130, 62, 173, 0);">sistema nervioso</b><span style="font-size: 16px; background-color: rgba(130, 62, 173, 0);"> controla todo el cuerpo, transmitiendo señales entre cerebro y órganos, para que todo funcione perfectamente.</span></p>
+<p><span style="font-size: 16px; background-color: rgba(130, 62, 173, 0);">De la </span><b style="font-size: 16px; background-color: rgba(130, 62, 173, 0);">buena comunicación</b><span style="font-size: 16px; background-color: rgba(130, 62, 173, 0);"> entre cerebro y cuerpo depende nuestra salud.</span></p>
+<p><span style="font-size: 16px; background-color: rgba(130, 62, 173, 0);">La</span><b style="font-size: 16px; background-color: rgba(130, 62, 173, 0);"> columna vertebral</b><span style="font-size: 16px; background-color: rgba(130, 62, 173, 0);"> protege el sistema nervioso y de su correcto alineamiento depende la buena comunicación entre cerebro y cuerpo.</span></p>
+<p><span style="font-size: 16px; background-color: rgba(130, 62, 173, 0);">Si cuidas de tu columna vertebral, tu cerebro puede funcionar adecuadamente y tu cuerpo puede sanarse y funcionar a su </span><b style="font-size: 16px; background-color: rgba(130, 62, 173, 0);">máximo potencial</b><span style="font-size: 16px; background-color: rgba(130, 62, 173, 0);">.</span></p>								</div>
 				</div>
 					</div>
 		</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-e31f456 elementor-section-content-middle elementor-section-full_width elementor-hidden-tablet elementor-hidden-phone elementor-section-height-default elementor-section-height-default" data-id="e31f456" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9c32761" data-id="9c32761" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-886bc7e elementor-widget elementor-widget-heading" data-id="886bc7e" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-					<h4 class="elementor-heading-title elementor-size-default">NUESTROS SERVICIOS</h4>				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-8f2d553 elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="8f2d553" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1709482" data-id="1709482" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-74ba4fd elementor-widget elementor-widget-image" data-id="74ba4fd" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-																<a href="localhost/Quirosapio/que-es-la-kinesiologia/">
-							<img fetchpriority="high" decoding="async" width="530" height="324" src="wp-content/uploads/2020/01/icak.jpg" class="attachment-large size-large wp-image-480" alt="Elementos de kinesiología aplicada" srcset="/wp-content/uploads/2020/01/icak.jpg 530w, /wp-content/uploads/2020/01/icak-300x183.jpg 300w" sizes="(max-width: 530px) 100vw, 530px">								</a>
-															</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-f207f72" data-id="f207f72" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-dec1fcb elementor-widget elementor-widget-heading" data-id="dec1fcb" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Quiropráctica</h2>				</div>
-				</div>
-				<div class="elementor-element elementor-element-faeb15a elementor-widget elementor-widget-text-editor" data-id="faeb15a" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p>La Organización Mundial de la Salud define la Quiropráctica como «la profesión que se ocupa del <b>diagnóstico, el tratamiento y la prevención </b>de los trastornos del sistema neuromusculoesquelético y de los efectos de dichos trastornos sobre la salud en general».  La atención del quiropráctico se centra en la <b>columna vertebral</b>, con la intención de detectar zonas de disfunción o restricción articular con posible<b> impacto neurológico</b>. </p>								</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-a8279b1" data-id="a8279b1" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-3e1c42d elementor-widget elementor-widget-image" data-id="3e1c42d" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-																<a href="localhost/Quirosapio/testaje-de-alergias/">
-							<img decoding="async" width="822" height="674" src="wp-content/uploads/2020/03/alergias-mod1.png" class="attachment-large size-large wp-image-675" alt="Esquema de alergias comunes" srcset="/wp-content/uploads/2020/03/alergias-mod1.png 822w, /wp-content/uploads/2020/03/alergias-mod1-300x246.png 300w, /wp-content/uploads/2020/03/alergias-mod1-768x630.png 768w" sizes="(max-width: 822px) 100vw, 822px">								</a>
-															</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-2b972b7 elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="2b972b7" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-e5fb81e" data-id="e5fb81e" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-1cd183a elementor-widget elementor-widget-heading" data-id="1cd183a" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Kinesiología y Reflexokinesia</h2>				</div>
-				</div>
-				<div class="elementor-element elementor-element-04f417f elementor-widget elementor-widget-text-editor" data-id="04f417f" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p>La Kinesiología es un sistema de análisis que evalúa los <b>aspectos estructurales, mentales y químicos </b>del estado de salud de la persona. Mediante el <b>testaje muscular manual</b> la Kinesiología detecta el origen del desequilibrio orgánico responsable de los síntomas y molestias del paciente, para luego utilizar técnicas específicas para su corrección y la normalización de la función de todo el cuerpo.</p>								</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-69132ee" data-id="69132ee" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-b82249a elementor-widget elementor-widget-image" data-id="b82249a" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-																<a href="localhost/Quirosapio/que-es-la-quiropractica/">
-							<img decoding="async" width="170" height="573" src="wp-content/uploads/2020/03/columna-dibujo-cortado.jpg" class="attachment-large size-large wp-image-618" alt="La quiropráctica cuida la columna vertebral y el sistema nervioso" srcset="/wp-content/uploads/2020/03/columna-dibujo-cortado.jpg 170w, /wp-content/uploads/2020/03/columna-dibujo-cortado-89x300.jpg 89w" sizes="(max-width: 170px) 100vw, 170px">								</a>
-															</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-234d49e" data-id="234d49e" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-ddd2588 elementor-widget elementor-widget-heading" data-id="ddd2588" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Testaje de alergias</h2>				</div>
-				</div>
-				<div class="elementor-element elementor-element-e5b9b23 elementor-widget elementor-widget-text-editor" data-id="e5b9b23" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p>El problema de las alergias está cada vez más difundido, causando un estado inflamatorio en el cuerpo y síntomas como<b> picor en ojos o nariz, lagrimeo, hinchazón o calambres intestinales, diarreas</b>, etc. Identificar los alergenos mediante testaje kinesiológico adquiere cada vez más interés y utilidad.</p>								</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-					</div>
-		</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-b0a56ba elementor-section-content-middle elementor-section-full_width elementor-hidden-desktop elementor-section-height-default elementor-section-height-default" data-id="b0a56ba" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a8973e2" data-id="a8973e2" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-03ee7e3 elementor-widget elementor-widget-heading" data-id="03ee7e3" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-					<h4 class="elementor-heading-title elementor-size-default">NUESTROS SERVICIOS</h4>				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-9c4a6af elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="9c4a6af" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3872e8a" data-id="3872e8a" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-95824a2 elementor-widget elementor-widget-heading" data-id="95824a2" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Quiropráctica</h2>				</div>
-				</div>
-				<div class="elementor-element elementor-element-553687f elementor-widget elementor-widget-text-editor" data-id="553687f" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p>La Organización Mundial de la Salud define la Quiropráctica como «la profesión que se ocupa del <b>diagnóstico, el tratamiento y la prevención </b>de los trastornos del sistema neuromusculoesquelético y de los efectos de dichos trastornos sobre la salud en general».  La atención del quiropráctico se centra en la <b>columna vertebral</b>, con la intención de detectar zonas de disfunción o restricción articular con posible<b> impacto neurológico</b>. </p>								</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-a15e82c" data-id="a15e82c" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-4295760 elementor-widget elementor-widget-image" data-id="4295760" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="170" height="573" src="wp-content/uploads/2020/03/columna-dibujo-cortado.jpg" class="attachment-large size-large wp-image-618" alt="La quiropráctica cuida la columna vertebral y el sistema nervioso" srcset="/wp-content/uploads/2020/03/columna-dibujo-cortado.jpg 170w, /wp-content/uploads/2020/03/columna-dibujo-cortado-89x300.jpg 89w" sizes="(max-width: 170px) 100vw, 170px">															</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-2772cce elementor-section-content-middle elementor-section-full_width elementor-hidden-desktop elementor-hidden-tablet elementor-section-height-default elementor-section-height-default" data-id="2772cce" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-da9c790" data-id="da9c790" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-ffe3c05 elementor-widget elementor-widget-spacer" data-id="ffe3c05" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-c2a501f elementor-widget elementor-widget-heading" data-id="c2a501f" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Kinesiología y Reflexokinesia</h2>				</div>
-				</div>
-				<div class="elementor-element elementor-element-9891d88 elementor-widget elementor-widget-text-editor" data-id="9891d88" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p>La Kinesiología es un sistema de análisis que evalúa los <b>aspectos estructurales, mentales y químicos </b>del estado de salud de la persona. Mediante el <b>testaje muscular manual</b> la Kinesiología detecta el origen del desequilibrio orgánico responsable de los síntomas y molestias del paciente, para luego utilizar técnicas específicas para su corrección y la normalización de la función de todo el cuerpo.</p>								</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-0453533" data-id="0453533" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-bbdf0be elementor-widget elementor-widget-image" data-id="bbdf0be" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img fetchpriority="high" decoding="async" width="530" height="324" src="wp-content/uploads/2020/01/icak.jpg" class="attachment-large size-large wp-image-480" alt="Elementos de kinesiología aplicada" srcset="/wp-content/uploads/2020/01/icak.jpg 530w, /wp-content/uploads/2020/01/icak-300x183.jpg 300w" sizes="(max-width: 530px) 100vw, 530px">															</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-				<div class="elementor-element elementor-element-175b46a elementor-widget elementor-widget-spacer" data-id="175b46a" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-						</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-332fa17 elementor-section-content-middle elementor-section-full_width elementor-hidden-phone elementor-section-height-default elementor-section-height-default" data-id="332fa17" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-d180d29" data-id="d180d29" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-086393d elementor-widget elementor-widget-image" data-id="086393d" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img fetchpriority="high" decoding="async" width="530" height="324" src="wp-content/uploads/2020/01/icak.jpg" class="attachment-large size-large wp-image-480" alt="Elementos de kinesiología aplicada" srcset="/wp-content/uploads/2020/01/icak.jpg 530w, /wp-content/uploads/2020/01/icak-300x183.jpg 300w" sizes="(max-width: 530px) 100vw, 530px">															</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-dc3eea0" data-id="dc3eea0" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-11cc298 elementor-widget elementor-widget-heading" data-id="11cc298" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Kinesiología y Reflexokinesia</h2>				</div>
-				</div>
-				<div class="elementor-element elementor-element-a7a142d elementor-widget elementor-widget-text-editor" data-id="a7a142d" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p>La Kinesiología es un sistema de análisis que evalúa los <b>aspectos estructurales, mentales y químicos </b>del estado de salud de la persona. Mediante el <b>testaje muscular manual</b> la Kinesiología detecta el origen del desequilibrio orgánico responsable de los síntomas y molestias del paciente, para luego utilizar técnicas específicas para su corrección y la normalización de la función de todo el cuerpo.</p>								</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-				<div class="elementor-element elementor-element-b375370 elementor-widget elementor-widget-spacer" data-id="b375370" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-						</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-e357ae1 elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="e357ae1" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-46bf02c" data-id="46bf02c" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-3dc90f5 elementor-widget elementor-widget-heading" data-id="3dc90f5" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Testaje de alergias</h2>				</div>
-				</div>
-				<div class="elementor-element elementor-element-e0dd460 elementor-widget elementor-widget-text-editor" data-id="e0dd460" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p>El problema de las alergias está cada vez más difundido, causando un estado inflamatorio en el cuerpo y síntomas como<b> picor en ojos o nariz, lagrimeo, hinchazón o calambres intestinales, diarreas</b>, etc. Identificar los alergenos mediante testaje kinesiológico adquiere cada vez más interés y utilidad.</p>								</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-df72b1a" data-id="df72b1a" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-f13e380 elementor-widget elementor-widget-image" data-id="f13e380" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="822" height="674" src="wp-content/uploads/2020/03/alergias-mod1.png" class="attachment-large size-large wp-image-675" alt="Esquema de alergias comunes" srcset="/wp-content/uploads/2020/03/alergias-mod1.png 822w, /wp-content/uploads/2020/03/alergias-mod1-300x246.png 300w, /wp-content/uploads/2020/03/alergias-mod1-768x630.png 768w" sizes="(max-width: 822px) 100vw, 822px">															</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-					</div>
-		</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-8369757 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="8369757" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-18a0d69 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="18a0d69" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a02b07e" data-id="a02b07e" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d59e6a5" data-id="d59e6a5" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-91b1d96 elementor-widget elementor-widget-heading" data-id="91b1d96" data-element_type="widget" data-widget_type="heading.default">
+						<div class="elementor-element elementor-element-a29af4d elementor-widget elementor-widget-spacer" data-id="a29af4d" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d05f9e4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d05f9e4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4ccd7d0" data-id="4ccd7d0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-08d5552 elementor-widget elementor-widget-heading" data-id="08d5552" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">NUESTROS SERVICIOS</h1>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1ccbb54 elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default" data-id="1ccbb54" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-860bc57 elementor-invisible" data-id="860bc57" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-0371aa4 elementor-position-top elementor-widget elementor-widget-image-box" data-id="0371aa4" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-box-wrapper">
+<figure class="elementor-image-box-img"><a href="localhost/Quirosapio/que-es-la-kinesiologia/" tabindex="-1"><img fetchpriority="high" decoding="async" width="530" height="324" src="/wp-content/uploads/2020/01/icak.jpg" class="elementor-animation-grow attachment-full size-full wp-image-480" alt="Elementos de kinesiología aplicada" srcset="/wp-content/uploads/2020/01/icak.jpg 530w, /wp-content/uploads/2020/01/icak-300x183.jpg 300w" sizes="(max-width: 530px) 100vw, 530px"></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="localhost/Quirosapio/que-es-la-kinesiologia/">Kinesiología y Reflexokinesia</a></h3></div>
+</div>				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-5271240 elementor-invisible" data-id="5271240" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-9b4d377 elementor-position-top elementor-widget elementor-widget-image-box" data-id="9b4d377" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-box-wrapper">
+<figure class="elementor-image-box-img"><a href="localhost/Quirosapio/que-es-la-quiropractica/" tabindex="-1"><img decoding="async" width="170" height="573" src="/wp-content/uploads/2020/03/columna-dibujo-cortado.jpg" class="elementor-animation-grow attachment-full size-full wp-image-618" alt="La quiropráctica cuida la columna vertebral y el sistema nervioso" srcset="/wp-content/uploads/2020/03/columna-dibujo-cortado.jpg 170w, /wp-content/uploads/2020/03/columna-dibujo-cortado-89x300.jpg 89w" sizes="(max-width: 170px) 100vw, 170px"></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="localhost/Quirosapio/que-es-la-quiropractica/">Quiropráctica</a></h3></div>
+</div>				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-ea3bb27 elementor-invisible" data-id="ea3bb27" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-10af283 elementor-position-top elementor-widget elementor-widget-image-box" data-id="10af283" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-box-wrapper">
+<figure class="elementor-image-box-img"><img decoding="async" width="822" height="674" src="/wp-content/uploads/2020/03/alergias-mod1.png" class="elementor-animation-grow attachment-full size-full wp-image-675" alt="Esquema de alergias comunes" srcset="/wp-content/uploads/2020/03/alergias-mod1.png 822w, /wp-content/uploads/2020/03/alergias-mod1-300x246.png 300w, /wp-content/uploads/2020/03/alergias-mod1-768x630.png 768w" sizes="(max-width: 822px) 100vw, 822px"></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Testaje de alergias</h3></div>
+</div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-57e5b64 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="57e5b64" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-bc273af" data-id="bc273af" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-9120620 elementor-align-center elementor-widget elementor-widget-button" data-id="9120620" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Contacta con nosotros</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-6f515b0 elementor-widget elementor-widget-spacer" data-id="6f515b0" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6da5b54f elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="6da5b54f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-66b39a4" data-id="66b39a4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-139ef706 elementor-widget elementor-widget-heading" data-id="139ef706" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">NUESTROS SERVICIOS</h4>				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-711b8b04 elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="711b8b04" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-10828c2e" data-id="10828c2e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7d082f29 elementor-widget elementor-widget-image" data-id="7d082f29" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="530" height="324" src="/wp-content/uploads/2020/01/icak.jpg" class="attachment-large size-large wp-image-480" alt="Elementos de kinesiología aplicada" srcset="/wp-content/uploads/2020/01/icak.jpg 530w, /wp-content/uploads/2020/01/icak-300x183.jpg 300w" sizes="(max-width: 530px) 100vw, 530px">															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-620a324b" data-id="620a324b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7c815ce4 elementor-widget elementor-widget-heading" data-id="7c815ce4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Quiropráctica</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-2f6b99b2 elementor-widget elementor-widget-text-editor" data-id="2f6b99b2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>La Organización Mundial de la Salud define la Quiropráctica como «la profesión que se ocupa del <b>diagnóstico, el tratamiento y la prevención </b>de los trastornos del sistema neuromusculoesquelético y de los efectos de dichos trastornos sobre la salud en general».  La atención del quiropráctico se centra en la <b>columna vertebral</b>, con la intención de detectar zonas de disfunción o restricción articular con posible<b> impacto neurológico</b>. </p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-633112a0" data-id="633112a0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6e5f1f71 elementor-widget elementor-widget-image" data-id="6e5f1f71" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="822" height="674" src="/wp-content/uploads/2020/03/alergias-mod1.png" class="attachment-large size-large wp-image-675" alt="Esquema de alergias comunes" srcset="/wp-content/uploads/2020/03/alergias-mod1.png 822w, /wp-content/uploads/2020/03/alergias-mod1-300x246.png 300w, /wp-content/uploads/2020/03/alergias-mod1-768x630.png 768w" sizes="(max-width: 822px) 100vw, 822px">															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-e58a25d elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="e58a25d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-164ad4e3" data-id="164ad4e3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4787f526 elementor-widget elementor-widget-heading" data-id="4787f526" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Kinesiología y Reflexokinesia</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-60573d99 elementor-widget elementor-widget-text-editor" data-id="60573d99" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>La Kinesiología es un sistema de análisis que evalúa los <b>aspectos estructurales, mentales y químicos </b>del estado de salud de la persona. Mediante el <b>testaje muscular manual</b> la Kinesiología detecta el origen del desequilibrio orgánico responsable de los síntomas y molestias del paciente, para luego utilizar técnicas específicas para su corrección y la normalización de la función de todo el cuerpo.</p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6fac70a3" data-id="6fac70a3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5b9c45b3 elementor-widget elementor-widget-image" data-id="5b9c45b3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="170" height="573" src="/wp-content/uploads/2020/03/columna-dibujo-cortado.jpg" class="attachment-large size-large wp-image-618" alt="La quiropráctica cuida la columna vertebral y el sistema nervioso" srcset="/wp-content/uploads/2020/03/columna-dibujo-cortado.jpg 170w, /wp-content/uploads/2020/03/columna-dibujo-cortado-89x300.jpg 89w" sizes="(max-width: 170px) 100vw, 170px">															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6ea619ea" data-id="6ea619ea" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-72d35adf elementor-widget elementor-widget-heading" data-id="72d35adf" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Testaje de alergias</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-1764191c elementor-widget elementor-widget-text-editor" data-id="1764191c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>El problema de las alergias está cada vez más difundido, causando un estado inflamatorio en el cuerpo y síntomas como<b> picor en ojos o nariz, lagrimeo, hinchazón o calambres intestinales, diarreas</b>, etc. Identificar los alergenos mediante testaje kinesiológico adquiere cada vez más interés y utilidad.</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-eb0ea26 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="eb0ea26" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;none&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6f83b7f" data-id="6f83b7f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-9254002 elementor-widget elementor-widget-spacer" data-id="9254002" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-58fa114 elementor-widget elementor-widget-heading" data-id="58fa114" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">LA QUIROPRÁCTICA</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-cecc700 elementor-widget elementor-widget-text-editor" data-id="cecc700" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>La Organización Mundial de la Salud define la Quiropráctica como «la profesión que se ocupa del <b>diagnóstico, el tratamiento y la prevención </b>de los trastornos del sistema neuromusculoesquelético y de los efectos de dichos trastornos sobre la salud en general».&nbsp; La atención del quiropráctico se centra en la <b>columna vertebral</b>, con la intención de detectar zonas de disfunción o restricción articular con posible<b> impacto neurológico</b>.&nbsp;</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-dfd7229 elementor-align-center elementor-widget elementor-widget-button" data-id="dfd7229" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="localhost/Quirosapio/que-es-la-quiropractica/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Aprender más</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-68b93af" data-id="68b93af" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5a417fd elementor-widget elementor-widget-image" data-id="5a417fd" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="/wp-content/uploads/elementor/thumbs/spinal-column-246273_1920-onodvwjqpcoxqc6vj9ydb9q2m64vwwgsnsnuizj0y0.jpg" title="espalda" alt="Espalda y columna vertebral" loading="lazy">															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-28f5b31 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="28f5b31" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4250f12" data-id="4250f12" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4832824 elementor-widget elementor-widget-spacer" data-id="4832824" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-fdf7254 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fdf7254" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;none&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5a186b6" data-id="5a186b6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-a578d20 elementor-widget elementor-widget-image" data-id="a578d20" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="530" height="324" src="/wp-content/uploads/2020/01/icak.jpg" class="attachment-large size-large wp-image-480" alt="Elementos de kinesiología aplicada" srcset="/wp-content/uploads/2020/01/icak.jpg 530w, /wp-content/uploads/2020/01/icak-300x183.jpg 300w" sizes="(max-width: 530px) 100vw, 530px">															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-555b415" data-id="555b415" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c7ce9e6 elementor-widget elementor-widget-spacer" data-id="c7ce9e6" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-0c8de73 elementor-widget elementor-widget-heading" data-id="0c8de73" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">LA KINESIOLOGÍA</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-faf8107 elementor-widget elementor-widget-text-editor" data-id="faf8107" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>La Kinesiología es un sistema de análisis que evalúa los <b>aspectos estructurales, mentales y químicos </b>del estado de salud de la persona. Mediante el <b>testaje muscular manual</b> la Kinesiología detecta el origen del desequilibrio orgánico responsable de los síntomas y molestias del paciente, para luego utilizar técnicas específicas para su corrección y la normalización de la función de todo el cuerpo.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-5c9f64d elementor-align-center elementor-widget elementor-widget-button" data-id="5c9f64d" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="localhost/Quirosapio/que-es-la-kinesiologia/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Aprender más</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-d31d92e elementor-widget elementor-widget-spacer" data-id="d31d92e" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e3fc708 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e3fc708" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a2c9406" data-id="a2c9406" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-32aee6e elementor-widget elementor-widget-spacer" data-id="32aee6e" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7c7e713 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7c7e713" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;none&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-37decd3" data-id="37decd3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d4d7793 elementor-widget elementor-widget-spacer" data-id="d4d7793" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-82326ec elementor-widget elementor-widget-heading" data-id="82326ec" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Quién puede beneficiarse de la quiropráctica?</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-f04fd14 elementor-widget elementor-widget-text-editor" data-id="f04fd14" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>La quiropráctica proporciona un cuidado natural, eficaz y seguro de la columna vertebral y el sistema nervioso, mejorando la salud y la calidad de vida de todo tipo de personas.&nbsp;</p>
+<p>Todo el mundo, a cualquier edad, en cualquier fase de la vida y con cualquier nivel de actividad física, puede experimentar un enorme beneficio a través del cuidado quiropráctico.&nbsp;</p>
+<p>Para saber más&#8230;.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-d7a0594 elementor-align-center elementor-widget elementor-widget-button" data-id="d7a0594" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="localhost/Quirosapio/para-quien/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Aprender más</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4a6beca elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="4a6beca" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-419721c" data-id="419721c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7e7676e elementor-widget elementor-widget-heading" data-id="7e7676e" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 					<h3 class="elementor-heading-title elementor-size-large">Nuestro Equipo</h3>				</div>
 				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-0abfa47 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0abfa47" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-67b89cb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="67b89cb" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-6108f9f" data-id="6108f9f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2e97766" data-id="2e97766" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-5cbdcc6 elementor-widget elementor-widget-image" data-id="5cbdcc6" data-element_type="widget" data-widget_type="image.default">
+						<div class="elementor-element elementor-element-1e7a74a elementor-widget elementor-widget-image" data-id="1e7a74a" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img loading="lazy" decoding="async" width="150" height="150" src="wp-content/uploads/2019/10/IMG_20191004_154906-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-image-141" alt="Quiropráctica y Kinesióloga responsable de Quirosapio">															</div>
+															<img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2019/10/IMG_20191004_154906-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-image-141" alt="Quiropráctica y Kinesióloga responsable de Quirosapio">															</div>
 				</div>
-				<div class="elementor-element elementor-element-021cea7 elementor-widget elementor-widget-heading" data-id="021cea7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-1040924 elementor-widget elementor-widget-heading" data-id="1040924" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 					<h2 class="elementor-heading-title elementor-size-large">Lisa Losapio</h2>				</div>
 				</div>
-				<div class="elementor-element elementor-element-f2f6615 elementor-widget elementor-widget-heading" data-id="f2f6615" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-0d2cbc0 elementor-widget elementor-widget-heading" data-id="0d2cbc0" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-large">Cofundadora - Quiropráctica y Kinesióloga</h2>				</div>
+					<h2 class="elementor-heading-title elementor-size-large">Quiropráctica y Kinesióloga</h2>				</div>
 				</div>
-				<div class="elementor-element elementor-element-0dde0df elementor-widget elementor-widget-text-editor" data-id="0dde0df" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-61f15ef elementor-widget elementor-widget-text-editor" data-id="61f15ef" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p>El centro está dividido en dos partes la parte principal es el cuidado del paciente y el tratamiento quiropráctico, la cual esta dirigida por Lisa Losapio, graduada con honores en el Madrid College of Chiropractic (San Lorenzo de El Escorial, Madrid) y con estudios en el Barcelona College of Chiropractic. </p>
-<p>Por otro lado, también está formada en Kinesiología y Reflexokinesia y es miembro de la Asociación Española de Quiropráctica (AEQ).</p>								</div>
+									<p>El centro está dirigido por la quiropráctica Lisa Losapio, graduada en el Madrid College of Chiropractic (San Lorenzo de El Escorial, Madrid) y con estudios en el Barcelona College of Chiropractic. También está formada en Kinesiología y Reflexokinesia y es miembro de la Asociación Española de Quiropráctica (AEQ).</p>								</div>
 				</div>
-				<div class="elementor-element elementor-element-4ba9096 elementor-align-center elementor-widget elementor-widget-button" data-id="4ba9096" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-element elementor-element-0a51fec elementor-align-center elementor-widget elementor-widget-button" data-id="0a51fec" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 									<div class="elementor-button-wrapper">
-					<a class="elementor-button elementor-button-link elementor-size-sm" href="/quienes-somos/">
+					<a class="elementor-button elementor-button-link elementor-size-sm">
 						<span class="elementor-button-content-wrapper">
 									<span class="elementor-button-text">Conócela más</span>
 					</span>
@@ -931,29 +983,28 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2bd10cd" data-id="2bd10cd" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-8c4c87c" data-id="8c4c87c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-6572440 elementor-widget elementor-widget-image" data-id="6572440" data-element_type="widget" data-widget_type="image.default">
+						<div class="elementor-element elementor-element-3251596 elementor-widget elementor-widget-image" data-id="3251596" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img loading="lazy" decoding="async" width="150" height="150" src="wp-content/uploads/2019/10/IMG_20191021_221851-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-image-140" alt="Responsable de administración de Quirosapio">															</div>
+															<img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2019/10/IMG_20191021_221851-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-image-140" alt="Responsable de administración de Quirosapio">															</div>
 				</div>
-				<div class="elementor-element elementor-element-8353db9 elementor-widget elementor-widget-heading" data-id="8353db9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-efebb2a elementor-widget elementor-widget-heading" data-id="efebb2a" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 					<h2 class="elementor-heading-title elementor-size-large">Miguel Pinardo Pascual</h2>				</div>
 				</div>
-				<div class="elementor-element elementor-element-f3e2ba2 elementor-widget elementor-widget-heading" data-id="f3e2ba2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-f86e284 elementor-widget elementor-widget-heading" data-id="f86e284" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-large">Cofundador - Ingeniero Aeronáutico </h2>				</div>
+					<h2 class="elementor-heading-title elementor-size-large">Responsable de Administración</h2>				</div>
 				</div>
-				<div class="elementor-element elementor-element-fa61591 elementor-widget elementor-widget-text-editor" data-id="fa61591" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-bbfd4f5 elementor-widget elementor-widget-text-editor" data-id="bbfd4f5" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p>La otra parte es la gestión y funcionamiento del centro, del cual se encarga Miguel Pinardo. Miguel es ingeniero aeronáutico con un master en ingeniería por el antiguo politécnico de Oxford. </p>
-<p>La idea creativa del centro nació de Miguel, quien es tremendamente deportista y  tras una lesión que le impedía realizar los deportes que le apasionan, conoció la quiropráctica y entendió su potencial así como la importancia de transmitir su arte y filosofía a más gente.</p>								</div>
+									<p>El centro Quirosapio nació gracias a la creativa idea de Miguel, un ingeniero aeronáutico con años de experiencia, que en cuanto llegó a conocer la quiropráctica entendió su potencial y la importancia de transmitir su arte y filosofía al público.</p>								</div>
 				</div>
-				<div class="elementor-element elementor-element-743d2af elementor-align-center elementor-widget elementor-widget-button" data-id="743d2af" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-element elementor-element-d986e13 elementor-align-center elementor-widget elementor-widget-button" data-id="d986e13" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 									<div class="elementor-button-wrapper">
-					<a class="elementor-button elementor-button-link elementor-size-sm" href="/quienes-somos/">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
 						<span class="elementor-button-content-wrapper">
 									<span class="elementor-button-text">Conócele más</span>
 					</span>
@@ -969,20 +1020,20 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 		</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-cecbd95 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cecbd95" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-23b3c93 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="23b3c93" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-020a552" data-id="020a552" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f1bb957" data-id="f1bb957" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-deba622 elementor-widget elementor-widget-heading" data-id="deba622" data-element_type="widget" data-widget_type="heading.default">
+						<div class="elementor-element elementor-element-93e1828 elementor-widget elementor-widget-heading" data-id="93e1828" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-large">Contacta con nosOtros</h2>				</div>
+					<h2 class="elementor-heading-title elementor-size-large">Contacta con nostros</h2>				</div>
 				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-d2ef301 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d2ef301" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-e64f450 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e64f450" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-71bf5af" data-id="71bf5af" data-element_type="column">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3225188" data-id="3225188" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-143a636 elementor-position-left elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="143a636" data-element_type="widget" data-widget_type="icon-box.default">
+						<div class="elementor-element elementor-element-58b8bd1 elementor-position-left elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="58b8bd1" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 							<div class="elementor-icon-box-wrapper">
 
@@ -999,14 +1050,14 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 					</h3>
 				
 									<p class="elementor-icon-box-description">
-						De lunes a viernes:  10:00-14:00 Hrs <br>De lunes a viernes:  16:00 -20:00 Hrs					</p>
+						Lunes - Viernes:   9:00-14:00 Hrs <br>Lunes - Miércoles - Viernes: 17:00 -21:00 Hr					</p>
 				
 			</div>
 			
 		</div>
 						</div>
 				</div>
-				<div class="elementor-element elementor-element-db7e057 elementor-position-left elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="db7e057" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-element elementor-element-b03b9bb elementor-position-left elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="b03b9bb" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 							<div class="elementor-icon-box-wrapper">
 
@@ -1023,28 +1074,21 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 					</h3>
 				
 									<p class="elementor-icon-box-description">
-						Nuestro centro está ubicado en la calle Montearagón 9, 28033 (Madrid). <br><br><br>Tel :+34 611 64 80 85 <br>Email: info@<span style="font-family: Poppins, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 200;">quirosapio</span>.com					</p>
+						Se realizan consultas en la calle Alonso Heredia 5, 28028 (Madrid). <br>También se realizan visitas a domicilio en la Comunidad de Madrid. <br><br>Tel :+34 611 64 80 85 <br>Email: lisa.losapio@gmail.com					</p>
 				
 			</div>
 			
 		</div>
 						</div>
 				</div>
-				<div class="elementor-element elementor-element-c12f5db elementor-widget elementor-widget-spacer" data-id="c12f5db" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-						</div>
-				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c1bb374" data-id="c1bb374" data-element_type="column">
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-f4a9503" data-id="f4a9503" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-a9347e0 elementor-widget elementor-widget-google_maps" data-id="a9347e0" data-element_type="widget" data-widget_type="google_maps.default">
+						<div class="elementor-element elementor-element-5262b42 elementor-widget elementor-widget-google_maps" data-id="5262b42" data-element_type="widget" data-widget_type="google_maps.default">
 				<div class="elementor-widget-container">
 							<div class="elementor-custom-embed">
-			<iframe loading="lazy" src="https://maps.google.com/maps?q=Calle%20Montearag%C3%B3n%209&#038;t=m&#038;z=13&#038;output=embed&#038;iwloc=near" title="Calle Montearagón 9" aria-label="Calle Montearagón 9"></iframe>
+			<iframe loading="lazy" src="https://maps.google.com/maps?q=Calle%20Alonso%20Heredia%205%2C%20Madrid%20ciudad&#038;t=m&#038;z=11&#038;output=embed&#038;iwloc=near" title="Calle Alonso Heredia 5, Madrid ciudad" aria-label="Calle Alonso Heredia 5, Madrid ciudad"></iframe>
 		</div>
 						</div>
 				</div>
@@ -1056,47 +1100,47 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 		</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-68b22bc elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="68b22bc" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1ed726f elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1ed726f" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-wide">
-					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-0c4f992" data-id="0c4f992" data-element_type="column">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-a320e75" data-id="a320e75" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-0f9f5cd elementor-widget elementor-widget-image" data-id="0f9f5cd" data-element_type="widget" data-widget_type="image.default">
+						<div class="elementor-element elementor-element-e76eceb elementor-widget elementor-widget-image" data-id="e76eceb" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img loading="lazy" decoding="async" width="150" height="150" src="wp-content/uploads/2019/10/mcc-150x150.png" class="attachment-thumbnail size-thumbnail wp-image-254" alt="Madrid College of Chiropractic">															</div>
+															<img loading="lazy" decoding="async" width="150" height="150" src="/wp-content/uploads/2019/10/mcc-150x150.png" class="attachment-thumbnail size-thumbnail wp-image-254" alt="Madrid College of Chiropractic">															</div>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-d29727a" data-id="d29727a" data-element_type="column">
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-42005a0" data-id="42005a0" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-2295fff elementor-widget elementor-widget-image" data-id="2295fff" data-element_type="widget" data-widget_type="image.default">
+						<div class="elementor-element elementor-element-da154af elementor-widget elementor-widget-image" data-id="da154af" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img loading="lazy" decoding="async" width="364" height="138" src="wp-content/uploads/2020/03/ECU-2.png" class="attachment-medium_large size-medium_large wp-image-627" alt="European Chiropractor&#039;s Union" srcset="/wp-content/uploads/2020/03/ECU-2.png 364w, /wp-content/uploads/2020/03/ECU-2-300x114.png 300w" sizes="(max-width: 364px) 100vw, 364px">															</div>
+															<img loading="lazy" decoding="async" width="364" height="138" src="/wp-content/uploads/2020/03/ECU-2.png" class="attachment-medium_large size-medium_large wp-image-627" alt="European Chiropractor&#039;s Union" srcset="/wp-content/uploads/2020/03/ECU-2.png 364w, /wp-content/uploads/2020/03/ECU-2-300x114.png 300w" sizes="(max-width: 364px) 100vw, 364px">															</div>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-6a4c033" data-id="6a4c033" data-element_type="column">
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-10a8db1" data-id="10a8db1" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-33c43ef elementor-widget elementor-widget-image" data-id="33c43ef" data-element_type="widget" data-widget_type="image.default">
+						<div class="elementor-element elementor-element-154bc9b elementor-widget elementor-widget-image" data-id="154bc9b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img loading="lazy" decoding="async" width="300" height="70" src="wp-content/uploads/2020/03/AEQ-3-300x70.png" class="attachment-medium size-medium wp-image-629" alt="Asociación Española de Quiropráctica" srcset="/wp-content/uploads/2020/03/AEQ-3-300x70.png 300w, /wp-content/uploads/2020/03/AEQ-3.png 512w" sizes="(max-width: 300px) 100vw, 300px">															</div>
+															<img loading="lazy" decoding="async" width="300" height="70" src="/wp-content/uploads/2020/03/AEQ-3-300x70.png" class="attachment-medium size-medium wp-image-629" alt="Asociación Española de Quiropráctica" srcset="/wp-content/uploads/2020/03/AEQ-3-300x70.png 300w, /wp-content/uploads/2020/03/AEQ-3.png 512w" sizes="(max-width: 300px) 100vw, 300px">															</div>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-edbb116" data-id="edbb116" data-element_type="column">
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-904b852" data-id="904b852" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-c335a23 elementor-widget elementor-widget-image" data-id="c335a23" data-element_type="widget" data-widget_type="image.default">
+						<div class="elementor-element elementor-element-e7221ac elementor-widget elementor-widget-image" data-id="e7221ac" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img loading="lazy" decoding="async" width="447" height="147" src="wp-content/uploads/2019/10/bcc-Barcelona-College-Chiropractic.gif" class="attachment-medium_large size-medium_large wp-image-255" alt="Barcelona-College-Chiropractic">															</div>
+															<img loading="lazy" decoding="async" width="447" height="147" src="/wp-content/uploads/2019/10/bcc-Barcelona-College-Chiropractic.gif" class="attachment-medium_large size-medium_large wp-image-255" alt="Barcelona-College-Chiropractic">															</div>
 				</div>
 					</div>
 		</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-d8be322 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="d8be322" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-978cb00 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="978cb00" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-bafa5bc" data-id="bafa5bc" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f73158d" data-id="f73158d" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-91843de elementor-widget elementor-widget-text-editor" data-id="91843de" data-element_type="widget" data-widget_type="text-editor.default">
+						<div class="elementor-element elementor-element-320088a elementor-widget elementor-widget-text-editor" data-id="320088a" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 									<p>LA QUIROPRÁCTICA, a pesar de estar reconocida como profesión sanitaria por la Organización Mundial de la Salud (O.M.S.), y de tener carácter sanitario en la mayoría de los países desarrollados del Mundo, entre ellos muchos países europeos como Reino Unido, Francia, Portugal, Italia, Dinamarca o Suiza, y en algunos de ellos con reconocimiento de profesión sanitaria de salud básica, NO ES UNA PROFESIÓN SANITARIA Y NO HA SIDO OBJETO DE REGULACIÓN EXPRESA EN ESPAÑA. Al ser la normativa sanitaria una cuestión de Derecho interno y reservado a la Soberanía de cada País miembro de la UE, la profesión quiropráctica en España se encuentra en una situación de vacío normativo. Desde la Asociación Española de Quiroprácticos (A.E.Q.) se ha solicitado ante las Cortes y los Ministerios competentes en materia de Sanidad y Educación que el Parlamento impulse el proceso legislativo que reconozca el carácter sanitario y la sustantividad propia de la profesión quiropráctica. En los países que cuentan con regulación legal, la licenciatura en Quiropráctica se obtiene al finalizar los programas educativos de 5 o 6 años. Dos instituciones españolas, el Real Centro Universitario María Cristina de Madrid (UCR) y el Barcelona College of Chiropractic (BCC), ofrecen programas (TÍTULOS PROPIOS, NO OFICIALES) de cinco años de duración para la formación y el ejercicio de la quiropráctica, a la espera de que se reconozca legalmente esta profesión en España. Mientras tanto, dichos títulos cumplen todos los estándares de calidad y excelencia que exige el Consejo de Educación Quiropráctica Europeo (E.C.C.E.) , y paradójicamente, los titulados españoles podrán ejercer como profesionales sanitarios oficiales en otros países como Estados Unidos, Francia o Inglaterra, pero no en el suyo propio. La A.E.Q. fue creada y reconocida por el Ministerio del Interior en 1986, incluye a 300 miembros que posean un título universitario reconocido por el Consejo de Educación Quiropráctico Europeo, lo que garantiza el cumplimiento de los más altos estándares de calidad en el ejercicio de esta profesión a nivel Europeo, pero lamentablemente, hasta la fecha, nuestros títulos y diplomas NO SON TÍTULOS OFICIALES EN ESPAÑA. Si estás siendo atendido por un quiropráctico verifica y comprueba que sea miembro de la A.E.Q. en el apartado “Busca un quiropráctico” de su página web: http://www.quiropractica-aeq.com, de ese modo tendrás la garantía de que cumpla los estándares de calidad establecidos por E.C.C.E.. La regulación de la quiropráctica en España es una cuestión de oportunidad política, pero mientras tanto, los profesionales quiroprácticos que cumplen los requisitos establecidos por los Estatutos de la A.E.Q. se encuentran en una situación de inseguridad jurídica y agravio comparativo con otros profesionales de otros países europeos, pudiendo ocurrir que los ciudadanos sean tratados por presuntos quiroprácticos que no cumplan los estándares mínimos de <a href="http://www.chiropractic-ecu.org/default.asp" target="_blank" rel="nofollow noopener">calidad </a>exigibles internacionalmente.</p>
 <p>(**) La Web www.quirosapio.com proporciona información sobre los servicios profesionales de Lisa Losapio, titular de los contenidos de esta Web. Los contenidos de este sitio web se ofrecen con una finalidad informativa y divulgativa. El titular no se responsabiliza del contenido ni de las manifestaciones y opiniones vertidas por terceros en su página web. Los contenidos de la web no constituyen ni pretenden sustituir a un asesoramiento profesional sanitario, puesto que LA QUIROPRÁCTICA NO ES UNA PROFESIÓN SANITARIA Y NO HA SIDO OBJETO DE REGULACIÓN EXPRESA EN ESPAÑA , por lo que el titular no asume ninguna responsabilidad, directa o indirecta, que pudiera derivarse del uso que pudiera hacerse de dicha información.</p>								</div>
@@ -1106,7 +1150,84 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 					</div>
 		</section>
 				</div>
-		
+		<div data-wpcr3-content="612"><div class="wpcr3_respond_1 wpcr3_in_content" data-ajaxurl='["http:||localhost|quirosapio|wp-admin|admin-ajax","php?action=wpcr3-ajax"]' data-on-postid="612" data-postid="612">
+<div class="wpcr3_respond_2"><div class="wpcr3_div_2"><table class="wpcr3_table_2"><tbody>
+<tr><td colspan="2"><div class="wpcr3_leave_text">Submit your review</div></td></tr>
+<tr class="wpcr3_review_form_text_field">
+<td><label for="wpcr3_fname" class="comment-field">Nombre: </label></td>
+<td><input maxlength="150" class="text-input wpcr3_required" type="text" id="wpcr3_fname" name="wpcr3_fname" value=""></td>
+</tr>
+<tr class="wpcr3_review_form_text_field">
+<td><label for="wpcr3_femail" class="comment-field">Email: </label></td>
+<td><input maxlength="150" class="text-input wpcr3_required" type="text" id="wpcr3_femail" name="wpcr3_femail" value=""></td>
+</tr>
+<tr class="wpcr3_review_form_text_field">
+<td><label for="wpcr3_ftitle" class="comment-field">Título de la reseña: </label></td>
+<td><input maxlength="150" class="text-input " type="text" id="wpcr3_ftitle" name="wpcr3_ftitle" value=""></td>
+</tr>
+<tr class="wpcr3_review_form_rating_field">
+<td><label for="id_wpcr3_frating" class="comment-field">Rating: </label></td>
+<td>
+<div class="wpcr3_rating_stars"><div class="wpcr3_rating_style1">
+<div class="wpcr3_rating_style1_status"><div class="wpcr3_rating_style1_score">
+<div class="wpcr3_rating_style1_score1">1</div>
+<div class="wpcr3_rating_style1_score2">2</div>
+<div class="wpcr3_rating_style1_score3">3</div>
+<div class="wpcr3_rating_style1_score4">4</div>
+<div class="wpcr3_rating_style1_score5">5</div>
+</div></div>
+<div class="wpcr3_rating_style1_base wpcr3_hide"><div class="wpcr3_rating_style1_average" style="width:0%;"></div></div>
+</div></div>
+<input style="display:none;" type="hidden" class="wpcr3_required wpcr3_frating" id="id_wpcr3_frating" name="wpcr3_frating">
+</td>
+</tr>
+<tr class="wpcr3_review_form_review_field_label"><td colspan="2"><label for="id_wpcr3_ftext" class="comment-field">Review: </label></td></tr>
+<tr class="wpcr3_review_form_review_field_textarea"><td colspan="2"><textarea class="wpcr3_required wpcr3_ftext" id="id_wpcr3_ftext" name="wpcr3_ftext" rows="8" cols="50"></textarea></td></tr>
+<tr><td colspan="2" class="wpcr3_check_confirm">
+<div class="wpcr3_clear"></div>
+<input type="hidden" name="wpcr3_postid" value="612"><input type="text" class="wpcr3_fakehide wpcr3_fake_website" name="website"><input type="text" class="wpcr3_fakehide wpcr3_fake_url" name="url"><input type="checkbox" class="wpcr3_fakehide wpcr3_fconfirm1" name="wpcr3_fconfirm1" value="1"><label><input type="checkbox" name="wpcr3_fconfirm2" class="wpcr3_fconfirm2" value="1">&nbsp; Check this box to confirm you are human.</label><input type="checkbox" class="wpcr3_fakehide wpcr3_fconfirm3" name="wpcr3_fconfirm3" checked value="1">
+</td></tr>
+<tr><td colspan="2">
+<div class="wpcr3_button_1 wpcr3_submit_btn">Submit</div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div class="wpcr3_button_1 wpcr3_cancel_btn">Cancel</div>
+</td></tr>
+</tbody></table></div></div>
+<div class="wpcr3_clear wpcr3_pb5"></div>
+<div class="wpcr3_respond_3">
+<p></p>
+<div class="wpcr3_button_1 wpcr3_show_btn">Create your own review</div>
+</div>
+<div class="wpcr3_dotline"></div>
+<div class="wpcr3_reviews_holder"><div class="wpcr3_review_item"><div class="wpcr3_item wpcr3_business" itemscope itemtype="https://schema.org/LocalBusiness">
+<div class="wpcr3_item_name">Centro Quiropráctico Quirosapio</div>
+<meta itemprop="name" content="Centro Quiropráctico Quirosapio">
+<meta itemprop="url">
+<meta itemprop="image" content="/wp-content/plugins/wp-customer-reviews/css/1x1.png">
+<div class="wpcr3_aggregateRating" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+<meta itemprop="bestRating" content="5">
+<meta itemprop="worstRating" content="1">
+<meta itemprop="ratingValue" content="5.00">
+<meta itemprop="reviewCount" content="1">
+<span class="wpcr3_aggregateRating_overallText">Average rating: </span>&nbsp;<div class="wpcr3_aggregateRating_ratingValue"><div class="wpcr3_rating_style1"><div class="wpcr3_rating_style1_base "><div class="wpcr3_rating_style1_average" style="width:100%;"></div></div></div></div>&nbsp;<span class="wpcr3_aggregateRating_reviewCount">1 reviews</span>
+</div>
+<div class="wpcr3_dotline"></div>
+<div id="wpcr3_id_634" class="wpcr3_review" itemprop="review" itemscope itemtype="https://schema.org/Review">
+<div class="wpcr3_hide" itemprop="author" itemscope itemtype="https://schema.org/Person"><div itemprop="name">Alejandro Birreiro</div></div>
+<div class="wpcr3_hide" itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating">
+<meta itemprop="bestRating" content="5">
+<meta itemprop="worstRating" content="1">
+<meta itemprop="ratingValue" content="5">
+</div>
+<div class="wpcr3_review_ratingValue"><div class="wpcr3_rating_style1"><div class="wpcr3_rating_style1_base "><div class="wpcr3_rating_style1_average" style="width:100%;"></div></div></div></div>
+<div class="wpcr3_review_datePublished" itemprop="datePublished">Mar 6, 2020</div>
+<div class="wpcr3_review_author">&nbsp;by&nbsp;<span class="wpcr3_caps">Alejandro Birreiro</span>
+</div>
+<div class="wpcr3_clear"></div>
+<div class="wpcr3_review_title wpcr3_caps">¡Excelente profesional!</div>
+<div class="wpcr3_clear"></div>
+<blockquote class="wpcr3_content" itemprop="reviewBody"><p>Lisa es una excelente quiropráctica que integra muchas técnicas para cuidar a cada paciente de la forma más apropiada. Le acompañé a mi abuela para que recibiera su tratamiento quiropráctico y al ver tanta mejoría en su estado de salud nos apuntamos toda la familia!</p></blockquote>
+</div>
+</div></div></div>
+</div></div>
 	
 </div>
 
@@ -1164,7 +1285,7 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 				<div class="elementor-widget-container">
 					<style type="text/css">.ocean_custom_menu-REPLACE_TO_ID > ul > li > a, .custom-menu-widget .ocean_custom_menu-REPLACE_TO_ID .dropdown-menu .sub-menu li a.menu-link{color:#ffffff;text-transform:capitalize;}.custom-menu-widget .ocean_custom_menu-REPLACE_TO_ID.oceanwp-custom-menu > ul.click-menu .open-this{color:#ffffff;}.ocean_custom_menu-REPLACE_TO_ID > ul > li > a:hover, .custom-menu-widget .ocean_custom_menu-REPLACE_TO_ID .dropdown-menu .sub-menu li a.menu-link:hover{color:#000000;}.custom-menu-widget .ocean_custom_menu-REPLACE_TO_ID.oceanwp-custom-menu > ul.click-menu .open-this:hover{color:#000000;}</style>
 <div class="oceanwp-custom-menu clr ocean_custom_menu-REPLACE_TO_ID center dropdown-hover"><ul id="menu-menu-pie-de-pagina-nuevo" class="dropdown-menu sf-menu">
-<li id="menu-item-645" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-473 current_page_item menu-item-645"><a href="/" class="menu-link">INICIO</a></li>
+<li id="menu-item-645" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-645"><a href="/" class="menu-link">INICIO</a></li>
 <li id="menu-item-642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-642"><a href="/que-es-la-quiropractica/" class="menu-link">¿QUÉ ES LA QUIROPRÁCTICA?</a></li>
 <li id="menu-item-643" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-643"><a href="/blog/" class="menu-link">BLOG</a></li>
 <li id="menu-item-644" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-644"><a href="/contacto/" class="menu-link">CONTACTO</a></li>
@@ -1284,31 +1405,31 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 				events.forEach( ( event ) => {
 					document.addEventListener( event, lazyloadRunObserver );
 				} );</script>
-			<link rel="stylesheet" id="swiper-css" href="wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5" media="all">
-<link rel="stylesheet" id="e-swiper-css" href="wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.29.2" media="all">
+			<link rel="stylesheet" id="swiper-css" href="../wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5" media="all">
+<link rel="stylesheet" id="e-swiper-css" href="../wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.29.2" media="all">
 <script id="stickThis-js-extra">var sticky_anything_engage = {"element":"header","topspace":"0","minscreenwidth":"0","maxscreenwidth":"999999","zindex":"1","legacymode":"","dynamicmode":"","debugmode":"","pushup":"","adminbar":"1"};</script>
-<script src="wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/js/stickThis.js?ver=2.1.1" id="stickThis-js"></script>
-<script src="wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.29.2" id="elementor-webpack-runtime-js"></script>
-<script src="wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.29.2" id="elementor-frontend-modules-js"></script>
-<script src="wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
-<script id="elementor-frontend-js-before">var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir vídeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la última diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Móvil vertical","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Móvil horizontal","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta horizontal","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Portátil","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.29.2","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"e_local_google_fonts":true,"editor_v2":true,"home_screen":true,"cloud-library":true,"e_opt_in_v4_page":true},"urls":{"assets":"\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"\/wp-admin\/admin-ajax.php","uploadUrl":"\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"60e848f25e"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":473,"title":"INICIO%20-%20Centro%20Quiropr%C3%A1ctico%20Quirosapio","excerpt":"","featuredImage":false}};</script>
-<script src="wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.29.2" id="elementor-frontend-js"></script>
-<script src="wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script src="/wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/js/stickThis.js?ver=2.1.1" id="stickThis-js"></script>
+<script src="/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.29.2" id="elementor-webpack-runtime-js"></script>
+<script src="/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.29.2" id="elementor-frontend-modules-js"></script>
+<script src="/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir vídeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la última diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Móvil vertical","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Móvil horizontal","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta horizontal","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Portátil","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.29.2","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"e_local_google_fonts":true,"editor_v2":true,"home_screen":true,"cloud-library":true,"e_opt_in_v4_page":true},"urls":{"assets":"\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"\/wp-admin\/admin-ajax.php","uploadUrl":"\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"60e848f25e"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":612,"title":"INICIO%20POSIBLE%20-%20Centro%20Quiropr%C3%A1ctico%20Quirosapio","excerpt":"","featuredImage":false}};</script>
+<script src="/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.29.2" id="elementor-frontend-js"></script>
+<script src="/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
 <script id="oceanwp-main-js-extra">var oceanwpLocalize = {"nonce":"22d14964e1","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customScrollOffset":"0","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","loadMoreLoadingText":"Cargando…","ajax_url":"\/wp-admin\/admin-ajax.php","oe_mc_wpnonce":"4b9350d29e"};</script>
-<script src="wp-content/themes/oceanwp/assets/js/theme.min.js?ver=4.0.9" id="oceanwp-main-js"></script>
-<script src="wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=4.0.9" id="oceanwp-drop-down-mobile-menu-js"></script>
-<script src="wp-content/themes/oceanwp/assets/js/drop-down-search.min.js?ver=4.0.9" id="oceanwp-drop-down-search-js"></script>
-<script src="wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min.js?ver=4.0.9" id="ow-magnific-popup-js"></script>
-<script src="wp-content/themes/oceanwp/assets/js/ow-lightbox.min.js?ver=4.0.9" id="oceanwp-lightbox-js"></script>
-<script src="wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.min.js?ver=4.0.9" id="ow-flickity-js"></script>
-<script src="wp-content/themes/oceanwp/assets/js/ow-slider.min.js?ver=4.0.9" id="oceanwp-slider-js"></script>
-<script src="wp-content/themes/oceanwp/assets/js/scroll-effect.min.js?ver=4.0.9" id="oceanwp-scroll-effect-js"></script>
-<script src="wp-content/themes/oceanwp/assets/js/scroll-top.min.js?ver=4.0.9" id="oceanwp-scroll-top-js"></script>
-<script src="wp-content/themes/oceanwp/assets/js/select.min.js?ver=4.0.9" id="oceanwp-select-js"></script>
+<script src="/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=4.0.9" id="oceanwp-main-js"></script>
+<script src="/wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=4.0.9" id="oceanwp-drop-down-mobile-menu-js"></script>
+<script src="/wp-content/themes/oceanwp/assets/js/drop-down-search.min.js?ver=4.0.9" id="oceanwp-drop-down-search-js"></script>
+<script src="/wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min.js?ver=4.0.9" id="ow-magnific-popup-js"></script>
+<script src="/wp-content/themes/oceanwp/assets/js/ow-lightbox.min.js?ver=4.0.9" id="oceanwp-lightbox-js"></script>
+<script src="/wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.min.js?ver=4.0.9" id="ow-flickity-js"></script>
+<script src="/wp-content/themes/oceanwp/assets/js/ow-slider.min.js?ver=4.0.9" id="oceanwp-slider-js"></script>
+<script src="/wp-content/themes/oceanwp/assets/js/scroll-effect.min.js?ver=4.0.9" id="oceanwp-scroll-effect-js"></script>
+<script src="/wp-content/themes/oceanwp/assets/js/scroll-top.min.js?ver=4.0.9" id="oceanwp-scroll-top-js"></script>
+<script src="/wp-content/themes/oceanwp/assets/js/select.min.js?ver=4.0.9" id="oceanwp-select-js"></script>
 <script id="flickr-widget-script-js-extra">var flickrWidgetParams = {"widgets":[]};</script>
-<script src="wp-content/plugins/ocean-extra/includes/widgets/js/flickr.min.js?ver=6.8.1" id="flickr-widget-script-js"></script>
-<script src="wp-content/plugins/header-footer-elementor/inc/js/frontend.js?ver=2.4.0" id="hfe-frontend-js-js"></script>
-<script src="wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5" id="swiper-js"></script>
+<script src="/wp-content/plugins/ocean-extra/includes/widgets/js/flickr.min.js?ver=6.8.1" id="flickr-widget-script-js"></script>
+<script src="/wp-content/plugins/header-footer-elementor/inc/js/frontend.js?ver=2.4.0" id="hfe-frontend-js-js"></script>
+<script src="/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5" id="swiper-js"></script>
 
 <script type="text/javascript">jQuery(function ($) {
     'use strict';
