@@ -184,7 +184,7 @@ div.wpcr3_rating_style1 * {
   line-height: 17px;
 }
 div.wpcr3_rating_style1_base {
-  background: url(/wp-content/plugins/wp-customer-reviews/css/newstars.png) 0 0 no-repeat;
+  background: url(../../../plugins/wp-customer-reviews/css/newstars.png) 0 0 no-repeat;
   width: 85px;
   height: 17px;
   line-height: 17px;
@@ -194,7 +194,7 @@ div.wpcr3_rating_style1_base {
   display: block;
 }
 div.wpcr3_rating_style1_average {
-  background: url(/wp-content/plugins/wp-customer-reviews/css/newstars.png) 0 -15px no-repeat;
+  background: url(../../../plugins/wp-customer-reviews/css/newstars.png) 0 -15px no-repeat;
   text-indent: -9999px;
   height: 17px;
   line-height: 17px;
@@ -209,7 +209,7 @@ div.wpcr3_rating_style1_status {
   display: block;
 }
 div.wpcr3_rating_style1_score {
-  background: url(/wp-content/plugins/wp-customer-reviews/css/newstars.png) 0 0 no-repeat;
+  background: url(../../../plugins/wp-customer-reviews/css/newstars.png) 0 0 no-repeat;
   width: 85px;
   height: 17px;
   line-height: 17px;
@@ -226,7 +226,7 @@ div.wpcr3_rating_style1_score div {
   line-height: 17px;
 }
 div.wpcr3_rating_style1_score div:hover {
-  background: url(/wp-content/plugins/wp-customer-reviews/css/newstars.png) bottom right no-repeat;
+  background: url(../../../plugins/wp-customer-reviews/css/newstars.png) bottom right no-repeat;
 }
 div.wpcr3_rating_style1_score div.wpcr3_rating_style1_score1 {
   width: 20%;
