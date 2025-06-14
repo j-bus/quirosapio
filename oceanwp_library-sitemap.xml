@@ -4,7 +4,7 @@
 		<loc>/?oceanwp_library=pie-de-pagina</loc>
 		<lastmod>2020-03-05T12:03:26+00:00</lastmod>
 		<image:image>
-			<image:loc>localhost/Quirosapio/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
+			<image:loc>./wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
 		</image:image>
 	</url>
 	<url>
