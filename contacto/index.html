@@ -234,31 +234,25 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 
 /* Custom Contact Page Styles */
 .contact-info-container {
-    padding: 60px 20px !important;
+    padding: 40px 20px !important;
 }
 
 .elementor-heading-title {
     text-align: center !important;
     font-size: 36px !important;
     color: #333 !important;
-    margin-bottom: 60px !important;
+    margin-bottom: 40px !important;
 }
 
+/* Ensure all boxes have the same height */
 .elementor-icon-box-wrapper {
-    background: #f8f8f8;
-    padding: 30px;
-    border-radius: 15px;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    min-height: 180px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    min-height: 180px !important;
+    height: 100% !important;
 }
 
 .elementor-icon-box-wrapper:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+    transform: translateY(-5px) !important;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.15) !important;
 }
 
 .elementor-icon i {
@@ -272,13 +266,19 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 /* Responsive Design */
 @media (max-width: 768px) {
     .contact-info-container {
-        gap: 30px !important;
-        padding: 40px 15px !important;
+        flex-direction: column !important;
+        gap: 20px !important;
+        padding: 30px 15px !important;
     }
     
     .elementor-heading-title {
         font-size: 28px !important;
-        margin-bottom: 40px !important;
+        margin-bottom: 30px !important;
+    }
+    
+    .elementor-icon-box-wrapper {
+        padding: 25px !important;
+        min-height: 160px !important;
     }
     
     .elementor-icon {
@@ -290,16 +290,26 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
     }
     
     .elementor-icon-box-description {
-        font-size: 18px !important;
-    }
-    
-    .elementor-icon-box-wrapper {
-        padding: 25px;
-        min-height: 160px;
+        font-size: 16px !important;
     }
 }
 
 @media (max-width: 480px) {
+    .contact-info-container {
+        gap: 15px !important;
+        padding: 25px 15px !important;
+    }
+    
+    .elementor-heading-title {
+        font-size: 26px !important;
+        margin-bottom: 25px !important;
+    }
+    
+    .elementor-icon-box-wrapper {
+        padding: 20px !important;
+        min-height: 140px !important;
+    }
+    
     .elementor-icon {
         font-size: 36px !important;
     }
@@ -309,7 +319,7 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
     }
     
     .elementor-icon-box-description {
-        font-size: 16px !important;
+        font-size: 15px !important;
     }
 }</style>
 </head>
@@ -462,99 +472,83 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 						<div class="elementor-element elementor-element-spacer-top elementor-widget elementor-widget-spacer" data-id="spacer-top" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
 							<div class="elementor-spacer">
-			<div class="elementor-spacer-inner" style="height: 40px;"></div>
+			<div class="elementor-spacer-inner" style="height: 20px;"></div>
 		</div>
 						</div>
 				</div>
 				
 				<!-- Contact Information Container -->
-				<div class="elementor-element contact-info-container" style="display: flex; flex-direction: column; align-items: center; gap: 40px; max-width: 600px; margin: 0 auto; text-align: center;">
+				<div class="elementor-element contact-info-container" style="display: flex; flex-direction: row; justify-content: center; align-items: stretch; gap: 30px; max-width: 1200px; margin: 0 auto; text-align: center; flex-wrap: wrap;">
 					
 					<!-- Phone -->
-					<div class="elementor-element elementor-element-6a14875 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="6a14875" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-icon-box-wrapper" style="text-align: center;">
-
-						<div class="elementor-icon-box-icon" style="margin-bottom: 15px;">
-				<span class="elementor-icon" style="font-size: 48px; color: #7B2D8E;">
-				<i aria-hidden="true" class="fas fa-phone"></i>				</span>
-			</div>
-			
-						<div class="elementor-icon-box-content">
-
-									<h3 class="elementor-icon-box-title" style="font-size: 24px; margin-bottom: 10px; color: #333;">
-						<span>
-							Llámanos						</span>
-					</h3>
-				
-									<p class="elementor-icon-box-description" style="font-size: 20px; font-weight: bold; color: #7B2D8E;">
-						+34 611 64 80 85					</p>
-				
-			</div>
-			
-		</div>
+					<div class="elementor-element elementor-element-6a14875 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="6a14875" data-element_type="widget" data-widget_type="icon-box.default" style="flex: 1; min-width: 280px;">
+						<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper" style="text-align: center; background: #f8f8f8; padding: 30px; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); transition: transform 0.3s ease, box-shadow 0.3s ease; height: 100%; display: flex; flex-direction: column; justify-content: center;">
+								<div class="elementor-icon-box-icon" style="margin-bottom: 15px;">
+									<span class="elementor-icon" style="font-size: 48px; color: #7B2D8E;">
+										<i aria-hidden="true" class="fas fa-phone"></i>
+									</span>
+								</div>
+								<div class="elementor-icon-box-content">
+									<h3 class="elementor-icon-box-title" style="font-size: 22px; margin-bottom: 10px; color: #333;">
+										<span>Llámanos</span>
+									</h3>
+									<p class="elementor-icon-box-description" style="font-size: 18px; font-weight: bold; color: #7B2D8E;">
+										<a href="tel:+34611648085" style="color: #7B2D8E; text-decoration: none;">+34 611 64 80 85</a>
+									</p>
+								</div>
+							</div>
 						</div>
-				</div>
-				
-				<!-- Email -->
-				<div class="elementor-element elementor-element-00a6565 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="00a6565" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-icon-box-wrapper" style="text-align: center;">
-
-						<div class="elementor-icon-box-icon" style="margin-bottom: 15px;">
-				<span class="elementor-icon" style="font-size: 48px; color: #7B2D8E;">
-				<i aria-hidden="true" class="far fa-envelope"></i>				</span>
-			</div>
-			
-						<div class="elementor-icon-box-content">
-
-									<h3 class="elementor-icon-box-title" style="font-size: 24px; margin-bottom: 10px; color: #333;">
-						<span>
-							escríbenos						</span>
-					</h3>
-				
-									<p class="elementor-icon-box-description" style="font-size: 20px; font-weight: bold; color: #7B2D8E;">
-						info@quirosapio.com					</p>
-				
-			</div>
-			
-		</div>
+					</div>
+					
+					<!-- Email -->
+					<div class="elementor-element elementor-element-00a6565 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="00a6565" data-element_type="widget" data-widget_type="icon-box.default" style="flex: 1; min-width: 280px;">
+						<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper" style="text-align: center; background: #f8f8f8; padding: 30px; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); transition: transform 0.3s ease, box-shadow 0.3s ease; height: 100%; display: flex; flex-direction: column; justify-content: center;">
+								<div class="elementor-icon-box-icon" style="margin-bottom: 15px;">
+									<span class="elementor-icon" style="font-size: 48px; color: #7B2D8E;">
+										<i aria-hidden="true" class="far fa-envelope"></i>
+									</span>
+								</div>
+								<div class="elementor-icon-box-content">
+									<h3 class="elementor-icon-box-title" style="font-size: 22px; margin-bottom: 10px; color: #333;">
+										<span>escríbenos</span>
+									</h3>
+									<p class="elementor-icon-box-description" style="font-size: 18px; font-weight: bold; color: #7B2D8E;">
+										<a href="mailto:info@quirosapio.com" style="color: #7B2D8E; text-decoration: none;">info@quirosapio.com</a>
+									</p>
+								</div>
+							</div>
 						</div>
-				</div>
-				
-				<!-- Address -->
-				<div class="elementor-element elementor-element-9197b02 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="9197b02" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-icon-box-wrapper" style="text-align: center;">
-
-						<div class="elementor-icon-box-icon" style="margin-bottom: 15px;">
-				<span class="elementor-icon" style="font-size: 48px; color: #7B2D8E;">
-				<i aria-hidden="true" class="fas fa-map-marker-alt"></i>				</span>
-			</div>
-			
-						<div class="elementor-icon-box-content">
-
-									<h3 class="elementor-icon-box-title" style="font-size: 24px; margin-bottom: 10px; color: #333;">
-						<span>
-							visítanos						</span>
-					</h3>
-				
-									<p class="elementor-icon-box-description" style="font-size: 20px; font-weight: bold; color: #7B2D8E;">
-						Calle Montearagón 9 (Madrid)					</p>
-				
-			</div>
-			
-		</div>
+					</div>
+					
+					<!-- Address -->
+					<div class="elementor-element elementor-element-9197b02 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="9197b02" data-element_type="widget" data-widget_type="icon-box.default" style="flex: 1; min-width: 280px;">
+						<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper" style="text-align: center; background: #f8f8f8; padding: 30px; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); transition: transform 0.3s ease, box-shadow 0.3s ease; height: 100%; display: flex; flex-direction: column; justify-content: center;">
+								<div class="elementor-icon-box-icon" style="margin-bottom: 15px;">
+									<span class="elementor-icon" style="font-size: 48px; color: #7B2D8E;">
+										<i aria-hidden="true" class="fas fa-map-marker-alt"></i>
+									</span>
+								</div>
+								<div class="elementor-icon-box-content">
+									<h3 class="elementor-icon-box-title" style="font-size: 22px; margin-bottom: 10px; color: #333;">
+										<span>visítanos</span>
+									</h3>
+									<p class="elementor-icon-box-description" style="font-size: 18px; font-weight: bold; color: #7B2D8E;">
+										<a href="https://maps.app.goo.gl/zwZS1V3qsYZUMvUBA" target="_blank" style="color: #7B2D8E; text-decoration: none;">Calle Montearagón 9</a>
+									</p>
+								</div>
+							</div>
 						</div>
-				</div>
-				
+					</div>
 				</div>
 				<!-- End Contact Information Container -->
 				
 				<div class="elementor-element elementor-element-spacer-bottom elementor-widget elementor-widget-spacer" data-id="spacer-bottom" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
 							<div class="elementor-spacer">
-			<div class="elementor-spacer-inner" style="height: 40px;"></div>
+			<div class="elementor-spacer-inner" style="height: 20px;"></div>
 		</div>
 						</div>
 				</div>
@@ -638,7 +632,7 @@ var translation = {"read_more":"Read More","less":"Less"};</script>
 <div class="oceanwp-custom-menu clr ocean_custom_menu-REPLACE_TO_ID center dropdown-hover"><ul id="menu-menu-pie-de-pagina-nuevo" class="dropdown-menu sf-menu">
 <li id="menu-item-645" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-645"><a href="../index.html" class="menu-link">INICIO</a></li>
 <li id="menu-item-642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-642"><a href="../que-es-la-quiropractica/index.html" class="menu-link">¿QUÉ ES LA QUIROPRÁCTICA?</a></li>
-<li id="menu-item-643" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-643"><a href="../blog/index.html" class="menu-link">BLOG</a></li>
+
 <li id="menu-item-644" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-101 current_page_item menu-item-644"><a href="../contacto/index.html" class="menu-link">CONTACTO</a></li>
 </ul></div>				</div>
 				</div>
